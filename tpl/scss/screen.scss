@@ -1,0 +1,419 @@
+@charset "utf-8";
+
+@import "_settings";
+@import "_colors";
+@import "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap";
+@import "bower_components/fontawesome/scss/font-awesome";
+@import "bower_components/ionicons/scss/ionicons";
+@import "_helpers";
+@import "_overrides";
+
+// Plugins
+@import "_slick-theme";
+
+// Generic
+hr.jx-no-border {
+  border-top-color: transparent;
+}
+
+.navbar-fixed-top {
+  min-height: 0;
+  background: $navbarBackgroundColor;
+
+  .jx-projects-toolbar {
+    li {
+      &.active {
+        > a {
+          color: $mainLinkColor;
+          background: $sectionOddBackgroundColor;
+          font-size: 1.1em;
+
+          &:hover,
+          &:focus {
+            background: $sectionOddBackgroundColor;
+            color: $mainLinkColorHover;
+          }
+        }
+      }
+      > a {
+        padding-top: 9px;
+        padding-bottom: 9px;
+        color: $mainLinkColor;
+
+        &:hover,
+        &:focus {
+          color: $mainLinkColorHover;
+        }
+      }
+    }
+  }
+  .navbar-brand {
+    height: auto;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-weight: bold;
+    color: $mainLinkColor;
+
+    &:hover,
+    &:focus {
+      color: $mainLinkColorHover;
+    }
+  }
+}
+
+.jx-section {
+  position: relative;
+  padding: 45px 0;
+
+  &:nth-child(odd) {
+    background: $sectionOddBackgroundColor;
+  }
+  h2 {
+    margin-bottom: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 2.5em;
+  }
+  .container {
+    height: 100%;
+
+    > .row {
+      height: 100%;
+      margin-left: 0;
+      margin-right: 0;
+
+      > div {
+        padding-left: 0;
+        padding-right: 0;
+      }
+    }
+  }
+}
+
+.jx-sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 1000;
+  white-space: nowrap;
+
+  &:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -0.25em; /* Adjusts for spacing */
+  }
+  > ul {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+
+    > li {
+      &.active {
+        > a {
+          &:after {
+            content: $ionicon-var-android-radio-button-on;
+          }
+          span {
+            visibility: visible;
+          }
+        }
+      }
+      > a {
+        display: inline-block;
+        padding-top: 5px;
+        padding-bottom: 5px;
+
+        &:after {
+          @include ion-icon();
+          content: $ionicon-var-android-radio-button-off;
+          padding-left: 5px;
+          font-size: 15px;
+          vertical-align: middle;
+        }
+        &:hover,
+        &:focus {
+          background: none;
+
+          span {
+            visibility: visible;
+          }
+        }
+        span {
+          visibility: hidden;
+        }
+      }
+    }
+  }
+}
+
+// CE
+.jx-welcome {
+  h1, h2 {
+    font-size: 1em;
+    font-weight: inherit;
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  dl {
+    font-size: 1.4em;
+
+    dt, dd {
+      text-transform: uppercase;
+    }
+    dt {
+      color: $presentationSecondaryColor;
+      font-weight: 500;
+    }
+    dd {
+      color: $presentationMainColor;
+      font-weight: 300;
+
+      + dt {
+        margin-top: 15px;
+      }
+    }
+    @media ( min-width: $screen-md-min ) {
+      font-size: 1.6em;
+    }
+    @media ( min-width: $screen-lg-min ) {
+      font-size: 1.8em;
+    }
+  }
+  em {
+    display: block;
+    margin: 20px 0;
+    font-size: 1.2em;
+  }
+  .img-responsive {
+    display: block;
+    margin: 0 auto;
+  }
+  .nav-justified {
+    > li {
+      > a {
+        padding: 5px;
+
+        &:hover,
+        &:focus {
+          background: none;
+        }
+        @media ( min-width: $screen-lg-min ) {
+          padding: 10px;
+        }
+      }
+    }
+    @media ( max-width: $screen-xs-max ) {
+      > li {
+        display: table-cell;
+        width: 1%;
+      }
+    }
+  }
+  @media ( min-width: $screen-sm-min ) {
+    height: 100vh;
+
+    .row {
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+
+      > div {
+        display: table-cell;
+        vertical-align: middle;
+        float: none;
+      }
+      > .col-md-12 {
+        width: 100%;
+      }
+    }
+    .row {
+      .row {
+        margin-left: 0;
+        margin-right: 0;
+
+        > div {
+          padding: 0 30px;
+        }
+      }
+    }
+  }
+  @media ( min-width: $screen-md-min ) {
+    .row {
+      .row {
+        > div {
+          padding: 0 45px;
+        }
+      }
+    }
+  }
+  @media ( max-width: $screen-xs-max ) {
+    .col-xs-12 + .col-xs-12 {
+      margin-top: 45px;
+    }
+  }
+}
+
+.jx-work-experience {
+  .row {
+    .row {
+      margin-left: 0;
+      margin-right: 0;
+
+      > div {
+        padding: 0 60px;
+        margin-bottom: 30px;
+
+        @media ( min-width: $screen-sm-min ) and ( max-width: $screen-sm-max ) {
+          &:nth-child(2n+1) {
+            clear: left;
+          }
+        }
+        @media ( min-width: $screen-md-min ) {
+          &:nth-child(3n+1) {
+            clear: left;
+          }
+        }
+      }
+    }
+  }
+  .jx-work {
+    text-align: center;
+
+    a {
+      span {
+        height: 150px;
+
+        &:before {
+          content: '';
+          display: inline-block;
+          height: 100%;
+          vertical-align: middle;
+          margin-right: -0.25em; /* Adjusts for spacing */
+        }
+        .img-responsive {
+          display: inline-block;
+          margin: 0 auto;
+        }
+      }
+    }
+    span {
+      display: block;
+      margin: 0 0 10px;
+      font-size: 1.2em;
+      line-height: 1.3;
+    }
+  }
+}
+
+.jx-skills {
+  h3 {
+    padding-bottom: 10px;
+    border-bottom: 1px solid $skillsTitleBorderColor;
+    margin-bottom: 15px;
+  }
+  li {
+    line-height: 2;
+
+    &.jx-wip {
+      &:before {
+        content: $ionicon-var-android-checkbox-outline-blank;
+        color: $skillsCheckYellow;
+      }
+    }
+    &:before {
+      @include ion-icon();
+      content: $ionicon-var-android-checkbox-outline;
+      padding-right: 10px;
+      color: $skillsCheckGreen;
+      font-size: 16px;
+    }
+    span {
+      display: inline-block;
+      vertical-align: top;
+      width: 85%;
+    }
+  }
+  .row {
+    .row {
+      > div {
+        @media ( min-width: $screen-sm-min ) and ( max-width: $screen-sm-max ) {
+          &:nth-child(2n+1) {
+            clear: left;
+          }
+        }
+      }
+    }
+  }
+  @media ( max-width: $screen-xs-max ) {
+    .col-xs-12 + .col-xs-12 {
+      margin-top: 30px;
+    }
+  }
+}
+
+.jx-portfolio {
+  h3 {
+    padding-bottom: 10px;
+    border-bottom: 1px solid $portfolioTitleBorderColor;
+    margin-bottom: 30px;
+  }
+  a {
+    span {
+      display: block;
+      text-align: center;
+      text-transform: uppercase;
+      font-weight: 500;
+    }
+  }
+  .row {
+    .col-md-3 {
+      margin-bottom: 45px;
+
+      @media ( min-width: $screen-sm-min ) and ( max-width: $screen-sm-max ) {
+        &:nth-child(3n+1) {
+          clear: left;
+        }
+      }
+      @media ( min-width: $screen-md-min ) {
+        &:nth-child(4n+1) {
+          clear: left;
+        }
+      }
+    }
+  }
+  .img-responsive {
+    width: 100%;
+
+    + span {
+      margin-top: 8px;
+    }
+  }
+  .modal {
+    label + a {
+      padding-left: 5px;
+    }
+    li {
+      line-height: 1.6;
+
+      &:before {
+        @include ion-icon();
+        content: $ionicon-var-checkmark;
+        padding-right: 10px;
+        color: $portfolioCheckColor;
+      }
+      .label {
+        vertical-align: middle;
+      }
+    }
+    .img-responsive {
+      margin-bottom: 15px;
+    }
+    .list-unstyled + label {
+      margin-top: 15px;
+    }
+  }
+}

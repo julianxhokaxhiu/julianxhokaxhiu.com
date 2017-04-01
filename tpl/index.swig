@@ -1,0 +1,1276 @@
+{% extends '_core/html.swig' %}
+{% block content %}
+<div class="jx-section-wrapper">
+  <div id="welcome" class="jx-section jx-welcome">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="row">
+            <div class="col-xs-12 col-sm-5 col-md-4">
+              <a href="http://about.me/julianxhokaxhiu">
+                <img class="img-responsive img-circle" src="img/me_8bit.png" alt="Julian Xhokaxhiu - Frontend Web Developer">
+              </a>
+              <div class="text-center">
+                <em>"Impossible Is Nothing"</em>
+                <hr>
+                <ul class="nav nav-justified">
+                  <li>
+                    <a href="http://www.facebook.com/julian.xhokaxhiu" title="Facebook" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-facebook fa-2x"></i></a>
+                  </li>
+                  <li>
+                    <a href="http://twitter.com/JulianXhokaxhiu" title="Twitter" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-twitter fa-2x"></i></a>
+                  </li>
+                  <li>
+                    <a href="http://plus.google.com/u/0/+JulianXhokaxhiu" title="Google+" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-google-plus fa-2x"></i></a>
+                  </li>
+                  <li>
+                    <a href="http://www.linkedin.com/in/julianxhokaxhiu" title="Linkedin" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-linkedin fa-2x"></i></a>
+                  </li>
+                  <li>
+                    <a href="http://www.xing.com/profiles/Julian_Xhokaxhiu" title="Xing" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-xing fa-2x"></i></a>
+                  </li>
+                  <li>
+                    <a href="http://github.com/julianxhokaxhiu" title="GitHub" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-github fa-2x"></i></a>
+                  </li>
+                  <li>
+                    <a href="http://stackoverflow.com/story/julianxhokaxhiu" title="Stackoverflow Careers" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-signal fa-2x"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-7 col-md-8">
+              <dl>
+                <dt>My name is</dt>
+                <dd><h1>Julian Xhokaxhiu</h1></dd>
+                <dt>Born in</dt>
+                <dd>1989</dd>
+                <dt>Job profile</dt>
+                <dd><h2>Full Stack Developer, IT PRACTISED (ISCED 4)</h2></dd>
+                <dt>Currently working for</dt>
+                <dd><a href="https://www.cinteo.com/">CINTEO GmbH</a></dd>
+                <dt>as</dt>
+                <dd>Software Engineer (with focus on FrontEnd)</dd>
+                <dt>since</dt>
+                <dd>JUL / 2016</dd>
+              </dl>
+              <a href="#"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="work-experience" class="jx-section jx-work-experience">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Work Experience</h2>
+          <div class="row">
+            <div class="col-sm-6 col-md-4">
+              <div class="jx-work">
+                <a href="http://www.aicod.it">
+                  <span><img class="img-responsive" src="img/work-experience/aicod.png" alt=""></span>
+                  <h3>Aicod Srl</h3>
+                </a>
+                <h4>Web Developer and Designer</h4>
+                <span>JUN/2009 - SEP/2013</span>
+                <span>Parma, Italy</span>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+              <div class="jx-work">
+                <a href="http://web.spaggiari.eu">
+                  <span><img class="img-responsive" src="img/work-experience/spaggiari.jpg" alt=""></span>
+                  <h3>Casa Editrice Spaggiari S.p.A.</h3>
+                </a>
+                <h4>IT Analyst,<br>Web Designer And Developer</h4>
+                <span>OCT/2013 - JAN/2014</span>
+                <span>Parma, Italy</span>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+              <div class="jx-work">
+                <a href="http://cron.eu">
+                  <span><img class="img-responsive" src="img/work-experience/cron.png" alt=""></span>
+                  <h3>cron IT GmbH</h3>
+                </a>
+                <h4>Agile Senior Frontend Developer</h4>
+                <span>APR/2014 - DEC/2014</span>
+                <span>Stuttgart, Germany</span>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+              <div class="jx-work">
+                <a href="http://aexea.de">
+                  <span><img class="img-responsive" src="img/work-experience/aexea.jpg" alt=""></span>
+                  <h3>aexea GmbH<br>communication. content. consulting</h3>
+                </a>
+                <h4>Agile Senior FrontEnd Developer</h4>
+                <span>AUG/2014 - DEC/2014</span>
+                <span>Stuttgart, Germany</span>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+              <div class="jx-work">
+                <a href="http://www.schommer-media.de">
+                  <span><img class="img-responsive" src="img/work-experience/schommer-media.png" alt=""></span>
+                  <h3>Schommer Media GmbH<br>TYPO3 Internetagentur Stuttgart</h3>
+                </a>
+                <h4>Agile Senior Frontend Developer<br>Team Leader of the Frontend Area</h4>
+                <span>JAN/2015 - JUN/2016</span>
+                <span>Stuttgart, Germany</span>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+              <div class="jx-work">
+                <a href="https://www.cinteo.com/">
+                  <span><img class="img-responsive" src="img/work-experience/cinteo.png" alt=""></span>
+                  <h3>CINTEO GmbH<br>a diconium company for Daimler</h3>
+                </a>
+                <h4>Senior Engineer FrontEnd</h4>
+                <span>JUL/2016</span>
+                <span>Stuttgart, Germany</span>
+              </div>
+            </div>
+          </div>
+          <hr>
+          <div class="row">
+            <div class="col-sm-12 text-center">
+              <p>
+                But wait...there's more! You can visit my two job profiles on these two networks:
+              </p>
+              <ul class="list-inline">
+                <li>
+                  <a href="http://www.linkedin.com/in/julianxhokaxhiu">
+                    <i class="fa fa-linkedin fa-fw"></i>
+                    <span>Linkedin</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.xing.com/profiles/Julian_Xhokaxhiu">
+                    <i class="fa fa-xing fa-fw"></i>
+                    <span>Xing</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="skills" class="jx-section jx-skills">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Skills</h2>
+          <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>Web Design</h3>
+                <ul class="list-unstyled">
+                  <li><span>HTML5</span></li>
+                  <li><span>CSS3</span></li>
+                  <li><span>ECMAScript 5 ( Javascript )</span></li>
+                  <li><span><a href="http://jquery.com">jQuery 1.x / 2.x / 3.x</a></span></li>
+                  <li><span><a href="http://jqueryui.com">jQuery UI 1.x</a></span></li>
+                  <li><span><a href="http://getbootstrap.com">Bootstrap 2.x / 3.x / 4.x</a></span></li>
+                  <li><span><a href="http://foundation.zurb.com">Foundation 5.x</a></span></li>
+                  <li><span><a href="http://twig.sensiolabs.org">Twig Template Engine</a></span>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>Web Development</h3>
+                <ul class="list-unstyled">
+                  <li><span><a href="http://php.net">PHP 4.x / 5.x / 7.x</a></span></li>
+                  <li><span><a href="http://nodejs.org">NodeJS</a></span></li>
+                  <li><span><a href="http://en.wikipedia.org/wiki/Active_Server_Pages">ASP Classic</a></span></li>
+                  <li><span><a href="http://www.asp.net">ASP.NET ( VB.NET / C# )</a></span></li>
+                  <li><span>SQL ( <a href="http://www.microsoft.com/en-us/server-cloud/products/sql-server">Microsoft SQL</a> / <a href="http://www.mysql.com">MySQL</a> / <a href="http://mariadb.org">MariaDB</a> / <a href="http://www.postgresql.org">PostgreSQL</a> )</span></li>
+                  <li><span><a href="https://www.docker.com/">Docker</a></span></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>OS Development</h3>
+                <ul class="list-unstyled">
+                  <li><span>C / C++</span></li>
+                  <li><span>Visual Basic 6.0 / VB.NET</span></li>
+                  <li><span>Visual C++ / C#</span></li>
+                  <li><span>Pascal / Delphi</span></li>
+                  <li><span>Intel ASM / Turbo ASM</span></li>
+                  <li><span><a href="http://www.python.org/">Python</a></span></li>
+                  <li><span>Objective-C / Cocoa</span></li>
+                  <li><span>Microcode ( <a href="http://en.wikipedia.org/wiki/WDC_65C02">65C02</a> )</span></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>Mobile Development</h3>
+                <ul class="list-unstyled">
+                  <li><span>Objective-C / Cocoa Touch</span></li>
+                  <li class="jx-wip"><span>Java / Android</span></li>
+                  <li><span>Third Party Frameworks ( <a href="http://phonegap.com">PhoneGap</a> / <a href="http://www.appcelerator.com/product">Titanium</a> / etc. )</span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <hr class="jx-no-border">
+          <div class="row">
+            <div class="col-md-12">
+              <ul class="list-inline">
+                <li>Fully understood, and ready for the future</li>
+                <li class="jx-wip">Studying, but ready to write code</li>
+              </ul>
+            </div>
+          </div>
+          <hr>
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <p>Actually, since I don't consider them a Skill, I use practically any OS out in the market: Windows, Linux, OSX, iOS, Android.<br>But If I have to say a preference, Windows is my favourite OS ( for Desktop usage, of course ).<br>While for Mobile I prefer Android for its freedom.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="portfolio" class="jx-section jx-portfolio">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Portfolio</h2>
+          <h3>Websites</h3>
+          <div class="row">
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Pagani">
+                <img class="img-responsive" src="img/portfolio/pagani.jpg" alt="Pagani">
+                <span>Pagani</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Pagani</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://www.pagani.com/">
+                        <img class="img-responsive" src="img/portfolio/pagani.jpg" alt="Pagani">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://www.pagani.com/">www.pagani.com</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        Pagani Automobili S.p.A. is an Italian manufacturer of sports cars and carbon fibre. The company was founded in 1992 by the Argentinian Horacio Pagani, and is based in San Cesario sul Panaro, near Modena, Italy.
+                      </p>
+                      <p>
+                        What I did was the design of the layout using all the latest technologies, from Desktop-side to the Mobile-side, to make it responsive and comfortable for every device that will surf on this Website.<br>
+                        It was my job also to animate the menus and make them confortable and compatible with Internet Explorer 6.x, 7.x and 8.x.
+                      </p>
+                      <p>
+                        Finally the <a href="http://www.pagani.com/en/pagani/default.aspx">Storyline page</a> was completely made from scratch using jQuery, jQueryUI and some CSS Hacks to accomplish the goal. The plugin that was born from this project can be freely found on my <a href="http://github.com/julianxhokaxhiu/jquery-storyline">Github</a>, but also on my <a href="http://examples.julianxhokaxhiu.com/storyline/">personal website</a>.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>PortalOnline.NET <span class="label label-info">Aicod Proprietary CMS</span></li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>ASP.NET (VB.NET)</li>
+                        <li>JSON</li>
+                      </ul>
+                      <label>Client-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>XHTML 1.0 Strict</li>
+                        <li>CSS 2.1 / 3.0</li>
+                        <li>Javascript (pure) / jQuery / jQueryUI</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Analytics</li>
+                        <li>AddThis</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">7.x / 8.x / 9.x</span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Parmigiano Reggiano">
+                <img class="img-responsive" src="img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
+                <span>Parmigiano Reggiano</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Parmigiano Reggiano</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://www.parmigianoreggiano.com/">
+                        <img class="img-responsive" src="img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://www.parmigianoreggiano.com/">www.parmigianoreggiano.com</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        Parmigiano-Reggiano (also known as Parmesan cheese) is a hard granular cheese with a long and natural maturation. It's a highly concentrated cheese and contains only 30% water and 70% nutrients. This means that Parmigiano-Reggiano is very rich in protein, vitamin and mineral.
+                      </p>
+                      <p>
+                        Main goal was to relaunch the company with a social approach. So the main focus was on presenting an Organization website with a brand new looking graphic. Also, was truly important to make it easy for users to find the nearest vendor through <a href="http://www.parmigianoreggiano.com/where/search_dairies/ext/cercacaseifici/default.aspx?txtCaratteristiche_1=2">a nice looking Map</a> (thanks to Google Maps technology) and a search engine behind it.
+                      </p>
+                      <p>
+                        Also, all the interactions which pull server-side informations was accomplished thanks to AJAX technology through jQuery libraries. Also modals and other graphics components are based upon jQuery UI library.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>PortalOnline.NET <span class="label label-info">Aicod Proprietary CMS</span></li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>ASP.NET (VB.NET)</li>
+                        <li>JSON</li>
+                      </ul>
+                      <label>Client-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>XHTML 1.0 Strict</li>
+                        <li>CSS 2.1 / 3.0</li>
+                        <li>Javascript (pure) / jQuery / jQueryUI</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Maps API v3</li>
+                        <li>Google Analytics</li>
+                        <li>AddThis</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">7.x / 8.x / 9.x</span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Maserati Ghibli">
+                <img class="img-responsive" src="img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
+                <span>Maserati Ghibli</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Maserati Ghibli</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://www.ghibli.maserati.com/">
+                        <img class="img-responsive" src="img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://www.ghibli.maserati.com/">www.ghibli.maserati.com</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        The Maserati Ghibli is the name of three different cars produced by Italian manufacturer Maserati: first from 1966 to 1973, secondly as the Maserati Ghibli II from 1992 to 1997, and thirdly from 2013 onwards.
+                      </p>
+                      <p>
+                        Main goal was to make a first-class website for users interested in this particular car model. The website design was focused on two aspects: the Desktop one (optimized for monitors up to 1920 resolution), and the Mobile one (optimized for Tablets, like iPads and Android ones). Personally I worked upon the mobile one, using the best responsive technologies combined with all HTML5 video futures (no Flash plugins, since they're not supported).
+                      </p>
+                      <p>
+                        Many third party Javascript plugins were used (like jQuery, BootstrapJS, MediaElement.js, etc.) but also jQuery Mobile (to work with touch events), best combining them to give the best experience from Smartphones to Tablets. Performance was really important to me, so I cherry picked things from those libraries to get things done, but also to keep libraries small and faster to be downloaded over mobile connections.
+                      </p>
+                      <p>
+                        Finally, for the Desktop side I had to patch a Javascript component called BigVideo.js to accomplish some project goals, since the plugin natively didn't support them (like <a href="http://github.com/dfcb/BigVideo.js/commit/2150af3e7354ad76b6938fb5171e0ef1fbc7e81f">this</a>, <a href="http://github.com/dfcb/BigVideo.js/commit/d6c7fe6912e4b4cd9cc4ab574388f3abcca3b67d">this</a> and <a href="http://github.com/dfcb/BigVideo.js/commit/ff5bc8a03f05edc6eabcde49233ca3a6c9eb8099">this one</a>). Of course, anything was given back to the community and main leader project. So I asked the creator to accept my Pull requests on GitHub.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>Silex <span class="label label-info">PHP Micro-Framework</span></li>
+                        <li>Bootstrap 2.x <span class="label label-info">Mobile Version</span></li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>PHP</li>
+                      </ul>
+                      <label>Client-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>HTML5</li>
+                        <li>CSS 2.1 / 3.0</li>
+                        <li>Javascript (pure) / jQuery / jQuery Mobile / Bootstrap</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Analytics</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">8.x / 9.x / 10.x</span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="CFT Group">
+                <img class="img-responsive" src="img/portfolio/cft-group.jpg" alt="CFT Group">
+                <span>CFT Group</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">CFT Group</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://www.cft-group.com/">
+                        <img class="img-responsive" src="img/portfolio/cft-group.jpg" alt="CFT Group">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://www.cft-group.com/">www.cft-group.com</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        CFT spa (Catelli Food Technology), the world market leader in the construction of food processing and packaging line, is a company located in Parma established in 2006 from the merger of two worldwide important food plant engineering and manufacturing company, Rossi &amp; Catelli and Manzini, has set up a production centre of reference in the field of food technologies.
+                      </p>
+                      <p>
+                        Since Smartphones and Tablets are being used much more than PCs, as time goes on, the main goal for this website was to Design it in a responsive way, based upon a Flat Design. Based on this, Bootstrap 3.x was the chosen candidate to be used as a Framework. HTML5, CSS3 and latest Javascript techniques and libraries were involved to make it as much possible lightweight for browsers, but first-class looking graphics for users.
+                      </p>
+                      <p>
+                        Effects, animations, transitions and positions, were made using CSS3 techniques combined with CSS 2.1 ones and jQuery (such as <span class="label label-default">.fadeIn</span> or <span class="label label-default">.animate</span> API calls).
+                      </p>
+                      <p>
+                        Finally, a Reference Map of the presence of <a href="http://www.cft-group.com/group/global_references/default.aspx">CFT in the World</a>, was important to be included inside the CMS. So, a really hard work and integration with Google Maps API was done. Points are automatically obtained from a Database populated inside the CMS, descriptions of points are got with an AJAX call (NOT loaded with the main json where points are placed). This decision was crucial since the user is really not interested in ALL the points, but some of them. So, loading the contents asynchronously was the best solution to reduce bandwidth and resources usage. Also, a nice menu where you can hide points inflated inside a Category was automatically generated through a tag system inside the CMS.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>PortalOnline.NET <span class="label label-info">Aicod Proprietary CMS</span></li>
+                        <li>Bootstrap 3.x</li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>ASP.NET (VB.NET)</li>
+                        <li>JSON</li>
+                      </ul>
+                      <label>Client-Side Languages</label>
+                      <ul class="list-unstyled">
+                        <li>HTML5</li>
+                        <li>CSS 2.1 / 3.0</li>
+                        <li>Javascript (pure) / jQuery / Boostrap</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Maps API v3</li>
+                        <li>Google Analytics</li>
+                        <li>AddThis</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">8.x / 9.x / 10.x</span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Turismo Reggio Emilia">
+                <img class="img-responsive" src="img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
+                <span>Turismo Reggio Emilia</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Turismo Reggio Emilia</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://reggioemiliaturismo.provincia.re.it/page.asp?IDCategoria=2949&amp;IDSezione=19387&amp;Speciale=MappaTerritoriale">
+                        <img class="img-responsive" src="img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://reggioemiliaturismo.provincia.re.it/page.asp?IDCategoria=2949&amp;IDSezione=19387&amp;Speciale=MappaTerritoriale">reggioemiliaturismo.provincia.re.it</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        Turismo Reggio Emilia is the official Reggio Emilia website for tourists (City of Reggio Emilia, Po valley and Province).
+                      </p>
+                      <p>
+                        An important piece of this project was dealing with 4000+ POI and be filtered with some nice combos within a webpage, so users can easily and quickly find their place of interest when they come to Reggio Emilia. A hard optimization was done writing the Javascript code to integrate the Google Maps API v3 inside the website. Just placing points in the map, all of them, was not the solution. Some old browsers like IE 6.x were really crashing after some seconds of loading. So, hacks were necessary to make it work there.
+                      </p>
+                      <p>
+                        Loops, conditions, switches and other things in the code were really rethought from the ground to be easily managed by old browsers. Also, grouping the points helped a lot the Javascript Stack, so using a simple library called Marker Cluster Plus, pushed the seconds necessary to be loaded to just 3-4 seconds.
+                      </p>
+                      <p>
+                        The map itself once the points are loaded, make filters combined with other ones (three of them actually available), directly on the client (no Server Side ajax loading). While searches are done through Ajax calls, since we have to search in multiple database fields, replying the SQL logic on the Javascript side was not performant as well. For sure it can be optimized probably with WebSQL nowadays, but since we have to deal with very old browsers, this technology was really not useful to us.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>PortalOnline.NET <span class="label label-info">Aicod Proprietary CMS</span></li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>ASP</li>
+                        <li>JSON</li>
+                      </ul>
+                      <label>Client-Side Languages</label>
+                      <ul class="list-unstyled">
+                        <li>XHTML 1.0 Strict</li>
+                        <li>CSS 2.1 / 3.0</li>
+                        <li>Javascript (pure) / jQuery / jQueryUI</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Maps API v3 w/Marker Cluster Plus</li>
+                        <li>Google Analytics</li>
+                        <li>AddThis</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">6.x / 7.x / 8.x</span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Acerni">
+                <img class="img-responsive" src="img/portfolio/acerni.jpg" alt="Acerni">
+                <span>Acerni</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Acerni</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://www.acerni.it/en/">
+                        <img class="img-responsive" src="img/portfolio/acerni.jpg" alt="Acerni">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://www.acerni.it/en/">www.acerni.it/en/</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        ACERNI OFFROAD offers full service professional installation and custom fabrication services, specialized in Jeeps. Acerni is the industry leader in off road.
+                      </p>
+                      <p>
+                        Main goal was to give the best e-commerce experience without losing their Management Information System where their database came from. So, actually using the best tool was crucial for us, that's why we finally choose Magento. A full installation, configuration and design of the website was totally done by us.
+                      </p>
+                      <p>
+                        What I had to manage was the Design and the Template aspect. Modifing them, satisfing client's goals and giving the user the best experience while browsing the store. Also, under the hood a Google Analytics is there to keep track of everything that happens in the website. So, getting number of visits, country of origin or browsers used to interact with the website, was just a matter of seconds, using the Google Analytics Dashboard.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>Magento E-Commerce</li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>PHP</li>
+                      </ul>
+                      <label>Client-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>XHTML 1.0 Strict</li>
+                        <li>CSS 2.1 / 3.0</li>
+                        <li>Javascript (pure) / jQuery</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Analytics</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">7.x / 8.x / 9.x</span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="DHBW Stuttgart">
+                <img class="img-responsive" src="img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
+                <span>DHBW Stuttgart</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">DHBW Stuttgart</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://www.dhbw-stuttgart.de/">
+                        <img class="img-responsive" src="img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://www.dhbw-stuttgart.de/">www.dhbw-stuttgart.de</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <a href="http://www.cron.eu/" title="cron :: Web Agentur TYPO3 in Stuttgart, TYPO3-Hosting in Frankfurt, cron IT GmbH">cron IT GmbH</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        The Baden-Wuerttemberg Cooperative State University Stuttgart (Duale Hochschule Baden-Wuerttemberg Stuttgart, DHBW Stuttgart) is one of the largest universities in the Stuttgart and Upper Neckar regions: Currently around 8,400 students (excluding Master students) are enrolled in our study programmes. DHBW Stuttgart with its campus in Horb, is the largest of nine locations of the Baden-Wuerttemberg Cooperative State University (DHBW).
+                      </p>
+                      <p>
+                        Mobile first website developed from scratch. Templates were done externally from another Graphical Agency, but our goal to convert the PSDs in HTML Templates, and later integrate them inside Typo3.
+                      </p>
+                      <p>
+                        My personal goal here was to develop principally the templates. The tool that helped me on archiving it really fast, was the one I decided to develop in the same period called "Mockup Creator" ( https://github.com/julianxhokaxhiu/mockups-creator ). Thanks to that stack based over NodeJS and Grunt, I was able to provide a first-class pixel-perfect Bootstrap based mockup.
+                      </p>
+                      <p>
+                        The workflow was managed using Agile and Scrum, continuous meetings with the customer by showing the status of the project page after page. Finally after the mockups were done, it was the job of the integrators to fill the static templates with dynamic content, by using Typo3 CMS, where I also contributed by using the Typoscript template language.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>Typo3 CMS</li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>PHP</li>
+                        <li>Typoscript</li>
+                      </ul>
+                      <label>Client-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>HTML5</li>
+                        <li>CSS 3.0</li>
+                        <li>Javascript (pure) / jQuery</li>
+                        <li>Web Fonts</li>
+                        <li>Web Icons ( custom integration of external SVGs too )</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Analytics</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">9.x / 10.x / 11.x</span></li>
+                        <li>iOS</li>
+                        <li>Android</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Messe Stuttgart">
+                <img class="img-responsive" src="img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
+                <span>Messe Stuttgart</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Messe Stuttgart</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://www.messe-stuttgart.de/en/">
+                        <img class="img-responsive" src="img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://www.messe-stuttgart.de/en/">www.messe-stuttgart.de/en/</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <a href="http://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        Messe Stuttgart reflects the successful economy in Baden-Württemberg. “Key to markets” is the Messe slogan, but also our promise to the customers. The trade fairs in Stuttgart reflect the importance and innovative power of the Baden-Württemberg economy – also in the international context. They are leading trade fairs in the respective industrial segments.
+                      </p>
+                      <p>
+                        This website has a real long story, a lot of content is there and the main purpose of the redisign was making it responsive without losing the main look that already had on Desktop. So the goal was to provide a Tablet and Smartphone layout which was fitting really nice with the Desktop and modern technologies today available.<br>Because of this some pages were realized more as a Wireframe rather than real templates, so most of the creative work was totally decided by me.
+                      </p>
+                      <p>
+                        My personal goal here was to develop principally the templates. The tool that helped me on archiving it really fast, was the one I decided to develop in the same period called "Mockup Creator" ( https://github.com/julianxhokaxhiu/mockups-creator ). Thanks to that stack based over NodeJS and Grunt, I was able to provide a first-class pixel-perfect Bootstrap based mockup.
+                      </p>
+                      <p>
+                        The workflow was managed using Agile and Scrum, continuous meetings with the customer by showing the status of the project page after page. Finally after the mockups were done, it was the job of the integrators to fill the static templates with dynamic content, by using Typo3 CMS, where I also contributed by using the Typoscript template language.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>Typo3 CMS 6.2.x</li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>PHP</li>
+                        <li>Typoscript</li>
+                        <li>Templavoilà</li>
+                      </ul>
+                      <label>Client-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>HTML5</li>
+                        <li>CSS 3.0</li>
+                        <li>Javascript (pure) / jQuery</li>
+                        <li>Web Fonts</li>
+                        <li>Web Icons ( custom integration of external SVGs too )</li>
+                        <li>SVG ( for the <a href="http://www.messe-stuttgart.de/en/interactive-ground-plan/">Interactive Ground Plan</a> ) </li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Analytics</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">8.x / 9.x / 10.x / 11.x</span></li>
+                        <li>Microsoft Edge</li>
+                        <li>iOS</li>
+                        <li>Android</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="4P Consulting">
+                <img class="img-responsive" src="img/portfolio/4pconsulting.jpg" alt="4P Consulting">
+                <span>4P Consulting</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">4P Consulting</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://www.4p-consulting.de/">
+                        <img class="img-responsive" src="img/portfolio/4pconsulting.jpg" alt="4P Consulting">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://www.4p-consulting.de/">www.4p-consulting.de</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <a href="http://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        4P Consulting has outstanding experience by its industry focus and recognized expertise of its expert positioning in the banking market. And not just for bank managers, even at board level, works councils and staff councils or supervisory and inspection organizations throughout Europe.
+                      </p>
+                      <p>
+                        The project goal was to deliver to the customer a fully working website, with disposable Content Elements and detachable from the context on every page ( which means that every Content Element is indipendent and fully on his own).<br>Template realization in this case were totally done in-hourse with full cooperation between the Graphical expert and me.
+                      </p>
+                      <p>
+                        My personal goal here was to develop principally the templates and lead the integration on Typo3 by using the outstanding technology Framework of Flux.<br>The tool that helped me on archiving it really fast, was the one I decided to develop in the same period called "Mockup Creator" ( https://github.com/julianxhokaxhiu/mockups-creator ). Thanks to that stack based over NodeJS and Grunt, I was able to provide a first-class pixel-perfect Bootstrap based mockup.
+                      </p>
+                      <p>
+                        The workflow was managed in the old fashioned way, in a small team of four persons: me ( template master ), Typo3 Integrator, Graphic guy and Project Leader. Because of this, the flow didn't took much than four weeks to start from scratch with the project and make it ready and usable for the customer on the official domain.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>Typo3 CMS 6.2.x</li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>PHP</li>
+                        <li>Typoscript ( only for the configurations of Typo3 )</li>
+                        <li><a href="https://fluidtypo3.org/" title="Fluid Powered TYPO3">Flux</a> / Fluid ( for the whole layout and every content element )</li>
+                      </ul>
+                      <label>Client-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>HTML5</li>
+                        <li>CSS 3.0</li>
+                        <li>Javascript (pure) / jQuery</li>
+                        <li>Web Fonts</li>
+                        <li>Web Icons ( custom integration of external SVGs too )</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Analytics</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">9.x / 10.x / 11.x</span></li>
+                        <li>Microsoft Edge</li>
+                        <li>iOS</li>
+                        <li>Android</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Polytechnische Gesellschaft">
+                <img class="img-responsive" src="img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
+                <span>Polytechnische Gesellschaft</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Polytechnische Gesellschaft</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://www.polytechnische.de/">
+                        <img class="img-responsive" src="img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://www.polytechnische.de/">www.polytechnische.de</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <a href="http://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        As one of the largest private foundations in Germany, Stiftung Polytechnische Gesellschaft Frankfurt am Main is dedicated to working for the benefit of Frankfurt and its citizens. Its work is concentrated in three main areas:<br>
+                        <ul>
+                          <li>Education, science and technology</li>
+                          <li>Arts and culture, including preservation of the city's cultural heritage</li>
+                          <li>Social, charitable and humanitarian work.</li>
+                        </ul>
+                      </p>
+                      <p>
+                        The project goal was to deliver to the customer a fully working website, with disposable Content Elements ( called Modules ) and detachable from the context on every page ( which means that every Content Element is indipendent and fully on his own).<br>Graphical templates were done from an External Agency chosen by the customer.
+                      </p>
+                      <p>
+                        My personal goal here was to develop principally the templates and lead the integration on Typo3 by using the outstanding technology Framework of Flux.<br>The tool that helped me on archiving it really fast, was the one I decided to develop in the same period called "Mockup Creator" ( https://github.com/julianxhokaxhiu/mockups-creator ). Thanks to that stack based over NodeJS and Grunt, I was able to provide a first-class pixel-perfect Bootstrap based mockup.
+                      </p>
+                      <p>
+                        The workflow was managed in the old fashioned way, in a small team of three persons: me ( template master ), Typo3 Integrator and Project Leader. Also various meetings with customer was taken to make sure that every detail was done correctly. No mistakes were allowed.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>Typo3 CMS 7.6.x</li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>PHP</li>
+                        <li>Typoscript ( only for the configurations of Typo3 )</li>
+                        <li><a href="https://fluidtypo3.org/" title="Fluid Powered TYPO3">Flux</a> / Fluid ( for the whole layout and every content element )</li>
+                      </ul>
+                      <label>Client-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>HTML5</li>
+                        <li>CSS 3.0</li>
+                        <li>Javascript (pure) / jQuery</li>
+                        <li>Web Fonts</li>
+                        <li>Web Icons ( custom integration of external SVGs too )</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Analytics</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">9.x / 10.x / 11.x</span></li>
+                        <li>Microsoft Edge</li>
+                        <li>iOS</li>
+                        <li>Android</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Dolci Delizie">
+                <img class="img-responsive" src="img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
+                <span>Dolci Delizie</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Dolci Delizie</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://dolci-delizie.de/">
+                        <img class="img-responsive" src="img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://dolci-delizie.de/">dolci-delizie.de</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <abbr title="Fotoricordi Giuseppe Acri und Julian Xhokaxhiu Web Development GbR">AundX GbR</abbr>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        Dolci Delizie is the first class choice for everything related to bakery decorations. Because of its exclusive partnership with the well know company called <a href="http://www.modecor.it/" title="Decorazioni per pasticceria e gelateria">Modecor</a> and many others also well known, it's just the first one in the Stuttgart area which provides only the best products to the customer at a fair price.
+                      </p>
+                      <p>
+                        The project goal was to deliver to the customer a fully working e-Commerce website, since the goal was at the beginning to sell online. Luckily the business got a little expanded and now it also have a Physical store in Weinstadt-Endersbach.
+                      </p>
+                      <p>
+                        My personal goal was to setup everything: the VPS where to host the website, setting up the domain, making sure that the website was always reliable thanks to Cloudflare technology, preparing and making the setup of Wordpress + WooCommerce and finally style graphically the store.
+                      </p>
+                      <p>
+                        The workflow was managed internally and totally by me.
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>Wordpress / WooCommerce</li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>PHP</li>
+                      </ul>
+                      <label>Client-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>HTML5</li>
+                        <li>CSS 3.0</li>
+                        <li>Javascript (pure) / jQuery</li>
+                        <li>Web Fonts</li>
+                        <li>Web Icons ( custom integration of external SVGs too )</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Google Analytics</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">9.x / 10.x / 11.x</span></li>
+                        <li>Microsoft Edge</li>
+                        <li>iOS</li>
+                        <li>Android</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <h3>Personal Projects</h3>
+          <div class="row">
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="NWM">
+                <img class="img-responsive" src="img/portfolio/nwm.jpg" alt="NWM">
+                <span>NWM</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">&ldquo;NodeJS (for) Windows (with) MongoDB&rdquo;</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://nwm.julianxhokaxhiu.com">
+                        <img class="img-responsive" src="img/portfolio/nwm.jpg" alt="NWM">
+                      </a>
+                      <hr>
+                      <p>
+                        Since I've begun following the NodeJS scene and development on this wonderful brand-new web server, only one question was inside my head: "Why isn't there any WAMP-like stack to start with the development?". And so, searching on Google, I found a guy <a href="http://www.travisglines.com/web-coding/node-js-unix-based-os-and-mongodb-num-are-the-new-lamp">talking exactly about this</a>.
+                      </p>
+                      <p>
+                        So, I ended up on creating my first and unique WAMP-like installer which will bring to you the latest version of NodeJS, MongoDB and NPM, directly available and integrated with the Windows Command Line utility. As it does happen likely in Linux, you're ready to work by just writing down <span class="label label-default">node</span>, <span class="label label-default">mongo</span> or just <span class="label label-default">npm</span>, and you're done.
+                      </p>
+                      <p>
+                        A future plan of this stack, is to implement an Auto-Update feature which will not require you to re-download the entire stack, but only the updated single part, and also, to give the freedom to the user to update what they want. No more bulks of updates, you just do it by yourself. And, because of this I've begun to write down a simple Package Manager based on JSON structure, called <a href="http://github.com/julianxhokaxhiu/JPM">JPM</a>.
+                      </p>
+                      <p>
+                        During time, the NodeJS stack and installer reached a very mature state, and the full stack was superseded by other cool package managers for Windows such as <a href="https://chocolatey.org/">Chocolatey Package Manager</a>. Therefore the project <strong>is now deprecated</strong>.
+                      </p>
+                      <hr>
+                      <label>Components Included</label>
+                      <ul class="list-unstyled">
+                        <li>NodeJS <span class="label label-info">Javascript Web Server</span></li>
+                        <li>MongoDB <span class="label label-info">Database No-SQL</span></li>
+                        <li>NPM <span class="label label-info">NodeJS Package Manager</span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Linux DaVinci">
+                <img class="img-responsive" src="img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
+                <span>Linux DaVinci</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Linux DaVinci</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://linuxdavinci.julianxhokaxhiu.com">
+                        <img class="img-responsive" src="img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12">
+                          <label>Website:</label>
+                          <a href="http://linuxdavinci.julianxhokaxhiu.com">linuxdavinci.julianxhokaxhiu.com</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        Linux DaVinci is a simple Linux distribution with a simple goal in mind: just boot your PC and code. No matter what, you'll always have a fresh development area available to you. Based on this, the Distro was born, and lately adopted by the school where I finished my studies before getting work. Actually, it's totally in Italian language, since it was primary focused for my School, but future plans are to port it also to English language (just to make it more International) and also with updated packages (since it has actually, pretty much old packages).
+                      </p>
+                      <p>
+                        Another goal of this distribution was to give the users the freedom to develop from Linux for Windows. Students can easily compile C/C++ sources for Windows through Wine, and run them on Windows without any further step. Also, after they're sure it runs on Windows, can easily try to compile it on Linux natively too. Guiding people on writing better portable code, will for sure help the people improve their way to think and code their own projects. Or maybe, that's what I'm trying to do with this simple distribution.
+                      </p>
+                      <hr>
+                      <label>Made For</label>
+                      <ul class="list-unstyled">
+                        <li><a href="http://www.itis.pr.it/">I.T.I.S. "Leonardo Da Vinci"</a> Parma, Italy</li>
+                      </ul>
+                      <label>Based Upon</label>
+                      <ul class="list-unstyled">
+                        <li>Slax</li>
+                      </ul>
+                      <label>Components Included</label>
+                      <ul class="list-unstyled">
+                        <li>See the full list in the <a href="http://nwm.julianxhokaxhiu.com">official website</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <h3>Community</h3>
+          <div class="row">
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="GitHub">
+                <img class="img-responsive" src="img/portfolio/github.jpg" alt="GitHub">
+                <span>GitHub</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">GitHub</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://github.com/julianxhokaxhiu">
+                        <img class="img-responsive" src="img/portfolio/github.jpg" alt="GitHub">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12">
+                          <label>Website:</label>
+                          <a href="http://github.com/julianxhokaxhiu">github.com/julianxhokaxhiu</a>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        Open Source to me is a core idea. It's something in which I really believe and I practice everyday. That's why I decided to publish every project I do on GitHub. Collaboration with other people will for sure grant better features, security and important patches to make the software itself better.
+                      </p>
+                      <p>
+                        You'll find projects I started from scratch or projects from other guys, improved and released again to them through Pull Requests. Actually, the latest thing on what I worked on was the Linux Kernel for Android, and it was pretty fun. I fixed some build things and made it more easy to compile. And actually, the community got a big benefit of this, because everyone now can compile their own kernel easily with little-to-none knowledge on Kernel development.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Web Developer Italiani">
+                <img class="img-responsive" src="img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
+                <span>Web Developer Italiani</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Web Developer Italiani</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://www.facebook.com/groups/webdeveloperitaliani/">
+                        <img class="img-responsive" src="img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="http://www.facebook.com/groups/webdeveloperitaliani/"><i class="ion-social-facebook"></i> / webdeveloperitaliani</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Role:</label>
+                          <span>Admin / Co-Founder</span>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        This community was born in collaboration with <a href="http://www.facebook.com/Vikey89">Vincenzo Provenza</a> and mantained with <a href="http://www.facebook.com/groups/webdeveloperitaliani/admins/">other guys</a>.
+                      </p>
+                      <p>
+                        Main goal of this group was to create the best place where Italian Developers can talk about ideas, experience and co-operation on new projects. The best place where best developers can easily get in touch with skilled ones, or help newcomers to get the things done, by giving them little help or explaining things. Just something like Stack Overflow, but much more little and based on Facebook Groups communities.
+                      </p>
+                      <p>
+                        Until now we're counting more than 7400+ users and growing everyday.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Italian Developers">
+                <img class="img-responsive" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
+                <span>Italian Developers</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Italian Developers</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="http://plus.google.com/u/0/communities/108809018737113333182">
+                        <img class="img-responsive" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-7">
+                          <label>Website:</label>
+                          <a href="http://plus.google.com/u/0/communities/108809018737113333182"><i class="ion-social-googleplus"></i> /communities/108809018737113333182</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-5 text-right-not-xs">
+                          <label>Role:</label>
+                          <span>Moderator / Co-Founder</span>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        This community was born in collaboration with <a href="http://plus.google.com/u/0/104511115348488853028">Antonio Barra</a> and mantained with <a href="http://plus.google.com/u/0/communities/108809018737113333182/members/moderator">other guys</a>.
+                      </p>
+                      <p>
+                        Main goal of this group was to create the best place where Italian Developers can talk about ideas, experience and co-operation each other on new projects. The best place where best developers can easily get in touch with skilled ones, or help newcomers to get the things done, by giving them little help or explaining things. Just something like Stack Overflow, but much more little and based on Google+ Communities.
+                      </p>
+                      <p>
+                        Until now we're counting more than 3400+ users and growing everyday.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

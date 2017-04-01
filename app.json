@@ -1,0 +1,40 @@
+{
+	"config" : {
+		"output" : {
+			"path" : "../dist"
+		},
+		"livereload" : {
+			"port" : 35729,
+			"host" : "dev"
+		},
+		"server" : {
+			"port" : 8080
+		},
+		"deploy" : {
+			"path" : "/var/www",
+			"host" : "localhost"
+		},
+		"typo3" : {
+			"path" : "_typo3ext",
+			"suffix" : "_core"
+		}
+	},
+	"assets" : {
+		"fonts" : [
+			"bower_components/fontawesome/fonts/*",
+			"bower_components/ionicons/fonts/*",
+			"bower_components/bootstrap-sass-official/assets/fonts/bootstrap/*"
+		],
+		"js" : [
+			"bower_components/modernizr/modernizr.js",
+			"bower_components/detectizr/dist/detectizr.js",
+			"bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js",
+      "bower_components/responsive-toolkit/dist/bootstrap-toolkit.js",
+      "bower_components/scrollreveal/dist/scrollreveal.js",
+			"tpl/js/*.js"
+		]
+	},
+	"data" : {
+		"foo" : "bar"
+	}
+}
