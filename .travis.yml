@@ -12,9 +12,15 @@ branches:
   - master
 
 before_install:
+- sudo apt-get -qq update
+- sudo apt-get install -y fontforge openjdk-8-jre libbatik-java
+- sudo npm install -g ttf2eot ttf2svg bower grunt-cli
+
+script:
 - git clone -b gh-pages --single-branch https://github.com/julianxhokaxhiu/julianxhokaxhiu.com.git _dest
-- docker pull julianxhokaxhiu/mockups-creator
-- docker run -d julianxhokaxhiu/mockups-creator -v "$TRAVIS_BUILD_DIR:/app" /bin/sh -c "/opt/init.sh --no-http-server"
+- npm install
+- bower install
+- grunt build_deploy
 
 deploy:
   local_dir: _dest/
