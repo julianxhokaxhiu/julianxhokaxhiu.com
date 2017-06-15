@@ -14,11 +14,13 @@ branches:
 before_install:
 - sudo apt-get -qq update
 - sudo apt-get install -y fontforge openjdk-8-jre libbatik-java
+
+install:
 - npm install -g ttf2eot ttf2svg bower grunt-cli
+- npm install
+- bower install
 
 script:
-- git clone -b gh-pages --single-branch https://github.com/julianxhokaxhiu/julianxhokaxhiu.com.git _dest
-- bower install
 - grunt build_deploy
 
 deploy:
@@ -28,4 +30,4 @@ deploy:
   github_token: $GITHUB_TOKEN
   fqdn: julianxhokaxhiu.com
   on:
-    branch: master
+    branch: gh-pages
