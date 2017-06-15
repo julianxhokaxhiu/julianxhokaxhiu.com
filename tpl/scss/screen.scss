@@ -393,7 +393,8 @@ hr.jx-no-border {
     }
   }
   .modal {
-    label + a {
+    label + a,
+    label + abbr {
       padding-left: 5px;
     }
     li {
