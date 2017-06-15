@@ -14,7 +14,7 @@ branches:
 before_install:
 - sudo apt-get -qq update
 - sudo apt-get install -y fontforge openjdk-8-jre libbatik-java
-- sudo npm install -g ttf2eot ttf2svg bower grunt-cli
+- npm install -g ttf2eot ttf2svg bower grunt-cli
 
 script:
 - git clone -b gh-pages --single-branch https://github.com/julianxhokaxhiu/julianxhokaxhiu.com.git _dest
