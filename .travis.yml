@@ -18,7 +18,6 @@ before_install:
 
 script:
 - git clone -b gh-pages --single-branch https://github.com/julianxhokaxhiu/julianxhokaxhiu.com.git _dest
-- npm install
 - bower install
 - grunt build_deploy
 
