@@ -1,0 +1,26 @@
+sudo: required
+
+language: node_js
+node_js:
+  - "node"
+
+services:
+  - docker
+
+branches:
+  only:
+  - master
+
+before_install:
+- git clone -b gh-pages --single-branch https://github.com/julianxhokaxhiu/julianxhokaxhiu.com.git _dest
+- docker pull julianxhokaxhiu/mockups-creator
+- docker run -d julianxhokaxhiu/mockups-creator -v "$TRAVIS_BUILD_DIR:/app" /bin/sh -c "/opt/init.sh --no-http-server"
+
+deploy:
+  local_dir: _dest/
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  fqdn: julianxhokaxhiu.com
+  on:
+    branch: master
