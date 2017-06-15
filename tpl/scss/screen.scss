@@ -12,6 +12,10 @@
 @import "_slick-theme";
 
 // Generic
+abbr {
+  text-decoration: none;
+}
+
 hr.jx-no-border {
   border-top-color: transparent;
 }
@@ -395,7 +399,7 @@ hr.jx-no-border {
   .modal {
     label + a,
     label + abbr {
-      padding-left: 5px;
+      margin-left: 5px;
     }
     li {
       line-height: 1.6;
