@@ -24,10 +24,10 @@ script:
 - grunt build_deploy
 
 deploy:
-  local_dir: _dest/
+  local_dir: _dest
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   fqdn: julianxhokaxhiu.com
   on:
-    branch: gh-pages
+    branch: master
