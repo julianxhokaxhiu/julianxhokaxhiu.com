@@ -77,5 +77,9 @@
     .on('activate.bs.scrollspy', function (e) {
       history.replaceState( {}, '', $( 'a[href^="#"]', e.target ).attr("href") );
     });
+
+    // Set current year
+    var currentDate = new Date();
+    $('#credits-year').text( currentDate.getFullYear() );
   });
 })(jQuery, ResponsiveBootstrapToolkit);

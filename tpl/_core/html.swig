@@ -64,7 +64,7 @@
       <div class="row">
         <div class="col-xs-12 text-center">
           <p><small>Any screenshot taken from the relative website represent the status of it in a specific time. So, it should not be considered a Copyright infringement, but it is there just for rapid quick-look and better understanding of the relative project sheet.</small></p>
-          <p>Julian Xhokaxhiu, 2016</p>
+          <p>Julian Xhokaxhiu, <span id="credits-year">2016</span></p>
         </div>
       </div>
     </div>
