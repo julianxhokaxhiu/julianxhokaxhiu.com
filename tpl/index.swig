@@ -15,22 +15,22 @@
                 <hr>
                 <ul class="nav nav-justified">
                   <li>
-                    <a href="http://www.facebook.com/julian.xhokaxhiu" title="Facebook" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-facebook fa-2x"></i></a>
+                    <a href="https://www.facebook.com/julian.xhokaxhiu" title="Facebook" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-facebook fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="http://twitter.com/JulianXhokaxhiu" title="Twitter" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-twitter fa-2x"></i></a>
+                    <a href="https://twitter.com/JulianXhokaxhiu" title="Twitter" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-twitter fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="http://plus.google.com/u/0/+JulianXhokaxhiu" title="Google+" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-google-plus fa-2x"></i></a>
+                    <a href="https://plus.google.com/u/0/+JulianXhokaxhiu" title="Google+" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-google-plus fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="http://www.linkedin.com/in/julianxhokaxhiu" title="Linkedin" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-linkedin fa-2x"></i></a>
+                    <a href="https://www.linkedin.com/in/julianxhokaxhiu" title="Linkedin" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-linkedin fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="http://www.xing.com/profiles/Julian_Xhokaxhiu" title="Xing" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-xing fa-2x"></i></a>
+                    <a href="https://www.xing.com/profile/Julian_Xhokaxhiu" title="Xing" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-xing fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="http://github.com/julianxhokaxhiu" title="GitHub" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-github fa-2x"></i></a>
+                    <a href="https://github.com/julianxhokaxhiu" title="GitHub" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-github fa-2x"></i></a>
                   </li>
                   <li>
                     <a href="http://stackoverflow.com/story/julianxhokaxhiu" title="Stackoverflow Careers" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-signal fa-2x"></i></a>
@@ -47,7 +47,7 @@
                 <dt>Job profile</dt>
                 <dd><h2>Full Stack Developer, IT PRACTISED (ISCED 4)</h2></dd>
                 <dt>Currently working for</dt>
-                <dd><a href="https://www.cinteo.com/">CINTEO GmbH</a></dd>
+                <dd><a href="https://mercedes-benz.io/">Mercedes-Benz.io GmbH</a></dd>
                 <dt>as</dt>
                 <dd>Software Engineer (with focus on FrontEnd)</dd>
                 <dt>since</dt>
@@ -123,11 +123,11 @@
             </div>
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
-                <a href="https://www.cinteo.com/">
+                <a href="https://mercedes-benz.io/">
                   <span><img class="img-responsive" src="img/work-experience/cinteo.png" alt=""></span>
-                  <h3>CINTEO GmbH<br>a diconium company for Daimler</h3>
+                  <h3>Mercedes-Benz.io GmbH</h3>
                 </a>
-                <h4>Senior Engineer FrontEnd</h4>
+                <h4>Software Engineer (with focus on FrontEnd)</h4>
                 <span>JUL/2016</span>
                 <span>Stuttgart, Germany</span>
               </div>
