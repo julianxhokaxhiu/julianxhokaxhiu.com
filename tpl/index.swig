@@ -7,7 +7,7 @@
         <div class="col-md-12">
           <div class="row">
             <div class="col-xs-12 col-sm-5 col-md-4">
-              <a href="http://about.me/julianxhokaxhiu">
+              <a href="https://about.me/julianxhokaxhiu">
                 <img class="img-responsive img-circle" src="img/me_8bit.png" alt="Julian Xhokaxhiu - Frontend Web Developer">
               </a>
               <div class="text-center">
@@ -33,7 +33,7 @@
                     <a href="https://github.com/julianxhokaxhiu" title="GitHub" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-github fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="http://stackoverflow.com/story/julianxhokaxhiu" title="Stackoverflow Careers" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-signal fa-2x"></i></a>
+                    <a href="https://stackoverflow.com/story/julianxhokaxhiu" title="Stackoverflow Careers" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-signal fa-2x"></i></a>
                   </li>
                 </ul>
               </div>
@@ -68,7 +68,7 @@
           <div class="row">
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
-                <a href="http://www.aicod.it">
+                <a href="https://www.aicod.it">
                   <span><img class="img-responsive" src="img/work-experience/aicod.png" alt=""></span>
                   <h3>Aicod Srl</h3>
                 </a>
@@ -79,7 +79,7 @@
             </div>
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
-                <a href="http://web.spaggiari.eu">
+                <a href="https://web.spaggiari.eu">
                   <span><img class="img-responsive" src="img/work-experience/spaggiari.jpg" alt=""></span>
                   <h3>Casa Editrice Spaggiari S.p.A.</h3>
                 </a>
@@ -90,7 +90,7 @@
             </div>
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
-                <a href="http://cron.eu">
+                <a href="https://cron.eu">
                   <span><img class="img-responsive" src="img/work-experience/cron.png" alt=""></span>
                   <h3>cron IT GmbH</h3>
                 </a>
@@ -101,7 +101,7 @@
             </div>
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
-                <a href="http://aexea.de">
+                <a href="https://aexea.de">
                   <span><img class="img-responsive" src="img/work-experience/aexea.jpg" alt=""></span>
                   <h3>aexea GmbH<br>communication. content. consulting</h3>
                 </a>
@@ -112,7 +112,7 @@
             </div>
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
-                <a href="http://www.schommer-media.de">
+                <a href="https://www.schommer-media.de">
                   <span><img class="img-responsive" src="img/work-experience/schommer-media.png" alt=""></span>
                   <h3>Schommer Media GmbH<br>TYPO3 Internetagentur Stuttgart</h3>
                 </a>
@@ -141,13 +141,13 @@
               </p>
               <ul class="list-inline">
                 <li>
-                  <a href="http://www.linkedin.com/in/julianxhokaxhiu">
+                  <a href="https://www.linkedin.com/in/julianxhokaxhiu">
                     <i class="fa fa-linkedin fa-fw"></i>
                     <span>Linkedin</span>
                   </a>
                 </li>
                 <li>
-                  <a href="http://www.xing.com/profiles/Julian_Xhokaxhiu">
+                  <a href="https://www.xing.com/profile/Julian_Xhokaxhiu">
                     <i class="fa fa-xing fa-fw"></i>
                     <span>Xing</span>
                   </a>
@@ -172,11 +172,11 @@
                   <li><span>HTML5</span></li>
                   <li><span>CSS3</span></li>
                   <li><span>ECMAScript 5 ( Javascript )</span></li>
-                  <li><span><a href="http://jquery.com">jQuery 1.x / 2.x / 3.x</a></span></li>
-                  <li><span><a href="http://jqueryui.com">jQuery UI 1.x</a></span></li>
-                  <li><span><a href="http://getbootstrap.com">Bootstrap 2.x / 3.x / 4.x</a></span></li>
-                  <li><span><a href="http://foundation.zurb.com">Foundation 5.x</a></span></li>
-                  <li><span><a href="http://twig.sensiolabs.org">Twig Template Engine</a></span>
+                  <li><span><a href="https://jquery.com">jQuery 1.x / 2.x / 3.x</a></span></li>
+                  <li><span><a href="https://jqueryui.com">jQuery UI 1.x</a></span></li>
+                  <li><span><a href="https://getbootstrap.com">Bootstrap 2.x / 3.x / 4.x</a></span></li>
+                  <li><span><a href="https://foundation.zurb.com">Foundation 5.x</a></span></li>
+                  <li><span><a href="https://twig.sensiolabs.org">Twig Template Engine</a></span>
                 </ul>
               </div>
             </div>
@@ -184,11 +184,11 @@
               <div class="jx-panel">
                 <h3>Web Development</h3>
                 <ul class="list-unstyled">
-                  <li><span><a href="http://php.net">PHP 4.x / 5.x / 7.x</a></span></li>
-                  <li><span><a href="http://nodejs.org">NodeJS</a></span></li>
-                  <li><span><a href="http://en.wikipedia.org/wiki/Active_Server_Pages">ASP Classic</a></span></li>
-                  <li><span><a href="http://www.asp.net">ASP.NET ( VB.NET / C# )</a></span></li>
-                  <li><span>SQL ( <a href="http://www.microsoft.com/en-us/server-cloud/products/sql-server">Microsoft SQL</a> / <a href="http://www.mysql.com">MySQL</a> / <a href="http://mariadb.org">MariaDB</a> / <a href="http://www.postgresql.org">PostgreSQL</a> )</span></li>
+                  <li><span><a href="https://php.net">PHP 4.x / 5.x / 7.x</a></span></li>
+                  <li><span><a href="https://nodejs.org">NodeJS</a></span></li>
+                  <li><span><a href="https://en.wikipedia.org/wiki/Active_Server_Pages">ASP Classic</a></span></li>
+                  <li><span><a href="https://www.asp.net">ASP.NET ( VB.NET / C# )</a></span></li>
+                  <li><span>SQL ( <a href="https://www.microsoft.com/en-us/server-cloud/products/sql-server">Microsoft SQL</a> / <a href="https://www.mysql.com">MySQL</a> / <a href="https://mariadb.org">MariaDB</a> / <a href="https://www.postgresql.org">PostgreSQL</a> )</span></li>
                   <li><span><a href="https://www.docker.com/">Docker</a></span></li>
                 </ul>
               </div>
@@ -202,9 +202,9 @@
                   <li><span>Visual C++ / C#</span></li>
                   <li><span>Pascal / Delphi</span></li>
                   <li><span>Intel ASM / Turbo ASM</span></li>
-                  <li><span><a href="http://www.python.org/">Python</a></span></li>
+                  <li><span><a href="https://www.python.org/">Python</a></span></li>
                   <li><span>Objective-C / Cocoa</span></li>
-                  <li><span>Microcode ( <a href="http://en.wikipedia.org/wiki/WDC_65C02">65C02</a> )</span></li>
+                  <li><span>Microcode ( <a href="https://en.wikipedia.org/wiki/WDC_65C02">65C02</a> )</span></li>
                 </ul>
               </div>
             </div>
@@ -214,7 +214,7 @@
                 <ul class="list-unstyled">
                   <li><span>Objective-C / Cocoa Touch</span></li>
                   <li class="jx-wip"><span>Java / Android</span></li>
-                  <li><span>Third Party Frameworks ( <a href="http://phonegap.com">PhoneGap</a> / <a href="http://www.appcelerator.com/product">Titanium</a> / etc. )</span></li>
+                  <li><span>Third Party Frameworks ( <a href="https://phonegap.com">PhoneGap</a> / <a href="https://www.appcelerator.com/product">Titanium</a> / etc. )</span></li>
                 </ul>
               </div>
             </div>
@@ -258,17 +258,17 @@
                       <h4 class="modal-title">Pagani</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://www.pagani.com/">
+                      <a href="https://www.pagani.com/">
                         <img class="img-responsive" src="img/portfolio/pagani.jpg" alt="Pagani">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://www.pagani.com/">www.pagani.com</a>
+                          <a href="https://www.pagani.com/">www.pagani.com</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
-                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                          <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
                       </div>
                       <hr>
@@ -280,7 +280,7 @@
                         It was my job also to animate the menus and make them confortable and compatible with Internet Explorer 6.x, 7.x and 8.x.
                       </p>
                       <p>
-                        Finally the <a href="http://www.pagani.com/en/pagani/default.aspx">Storyline page</a> was completely made from scratch using jQuery, jQueryUI and some CSS Hacks to accomplish the goal. The plugin that was born from this project can be freely found on my <a href="http://github.com/julianxhokaxhiu/jquery-storyline">Github</a>, but also on my <a href="http://examples.julianxhokaxhiu.com/storyline/">personal website</a>.
+                        Finally the <a href="https://www.pagani.com/en/pagani/default.aspx">Storyline page</a> was completely made from scratch using jQuery, jQueryUI and some CSS Hacks to accomplish the goal. The plugin that was born from this project can be freely found on my <a href="https://github.com/julianxhokaxhiu/jquery-storyline">Github</a>, but also on my <a href="https://examples.julianxhokaxhiu.com/storyline/">personal website</a>.
                       </p>
                       <hr>
                       <label>Built Upon</label>
@@ -328,17 +328,17 @@
                       <h4 class="modal-title">Parmigiano Reggiano</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://www.parmigianoreggiano.com/">
+                      <a href="https://www.parmigianoreggiano.com/">
                         <img class="img-responsive" src="img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://www.parmigianoreggiano.com/">www.parmigianoreggiano.com</a>
+                          <a href="https://www.parmigianoreggiano.com/">www.parmigianoreggiano.com</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
-                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                          <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
                       </div>
                       <hr>
@@ -346,7 +346,7 @@
                         Parmigiano-Reggiano (also known as Parmesan cheese) is a hard granular cheese with a long and natural maturation. It's a highly concentrated cheese and contains only 30% water and 70% nutrients. This means that Parmigiano-Reggiano is very rich in protein, vitamin and mineral.
                       </p>
                       <p>
-                        Main goal was to relaunch the company with a social approach. So the main focus was on presenting an Organization website with a brand new looking graphic. Also, was truly important to make it easy for users to find the nearest vendor through <a href="http://www.parmigianoreggiano.com/where/search_dairies/ext/cercacaseifici/default.aspx?txtCaratteristiche_1=2">a nice looking Map</a> (thanks to Google Maps technology) and a search engine behind it.
+                        Main goal was to relaunch the company with a social approach. So the main focus was on presenting an Organization website with a brand new looking graphic. Also, was truly important to make it easy for users to find the nearest vendor through <a href="https://www.parmigianoreggiano.com/where/search_dairies/ext/cercacaseifici/default.aspx?txtCaratteristiche_1=2">a nice looking Map</a> (thanks to Google Maps technology) and a search engine behind it.
                       </p>
                       <p>
                         Also, all the interactions which pull server-side informations was accomplished thanks to AJAX technology through jQuery libraries. Also modals and other graphics components are based upon jQuery UI library.
@@ -398,17 +398,17 @@
                       <h4 class="modal-title">Maserati Ghibli</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://www.ghibli.maserati.com/">
+                      <a href="https://www.ghibli.maserati.com/">
                         <img class="img-responsive" src="img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://www.ghibli.maserati.com/">www.ghibli.maserati.com</a>
+                          <a href="https://www.ghibli.maserati.com/">www.ghibli.maserati.com</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
-                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                          <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
                       </div>
                       <hr>
@@ -422,7 +422,7 @@
                         Many third party Javascript plugins were used (like jQuery, BootstrapJS, MediaElement.js, etc.) but also jQuery Mobile (to work with touch events), best combining them to give the best experience from Smartphones to Tablets. Performance was really important to me, so I cherry picked things from those libraries to get things done, but also to keep libraries small and faster to be downloaded over mobile connections.
                       </p>
                       <p>
-                        Finally, for the Desktop side I had to patch a Javascript component called BigVideo.js to accomplish some project goals, since the plugin natively didn't support them (like <a href="http://github.com/dfcb/BigVideo.js/commit/2150af3e7354ad76b6938fb5171e0ef1fbc7e81f">this</a>, <a href="http://github.com/dfcb/BigVideo.js/commit/d6c7fe6912e4b4cd9cc4ab574388f3abcca3b67d">this</a> and <a href="http://github.com/dfcb/BigVideo.js/commit/ff5bc8a03f05edc6eabcde49233ca3a6c9eb8099">this one</a>). Of course, anything was given back to the community and main leader project. So I asked the creator to accept my Pull requests on GitHub.
+                        Finally, for the Desktop side I had to patch a Javascript component called BigVideo.js to accomplish some project goals, since the plugin natively didn't support them (like <a href="https://github.com/dfcb/BigVideo.js/commit/2150af3e7354ad76b6938fb5171e0ef1fbc7e81f">this</a>, <a href="https://github.com/dfcb/BigVideo.js/commit/d6c7fe6912e4b4cd9cc4ab574388f3abcca3b67d">this</a> and <a href="https://github.com/dfcb/BigVideo.js/commit/ff5bc8a03f05edc6eabcde49233ca3a6c9eb8099">this one</a>). Of course, anything was given back to the community and main leader project. So I asked the creator to accept my Pull requests on GitHub.
                       </p>
                       <hr>
                       <label>Built Upon</label>
@@ -469,17 +469,17 @@
                       <h4 class="modal-title">CFT Group</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://www.cft-group.com/">
+                      <a href="https://www.cft-group.com/">
                         <img class="img-responsive" src="img/portfolio/cft-group.jpg" alt="CFT Group">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://www.cft-group.com/">www.cft-group.com</a>
+                          <a href="https://www.cft-group.com/">www.cft-group.com</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
-                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                          <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
                       </div>
                       <hr>
@@ -493,7 +493,7 @@
                         Effects, animations, transitions and positions, were made using CSS3 techniques combined with CSS 2.1 ones and jQuery (such as <span class="label label-default">.fadeIn</span> or <span class="label label-default">.animate</span> API calls).
                       </p>
                       <p>
-                        Finally, a Reference Map of the presence of <a href="http://www.cft-group.com/group/global_references/default.aspx">CFT in the World</a>, was important to be included inside the CMS. So, a really hard work and integration with Google Maps API was done. Points are automatically obtained from a Database populated inside the CMS, descriptions of points are got with an AJAX call (NOT loaded with the main json where points are placed). This decision was crucial since the user is really not interested in ALL the points, but some of them. So, loading the contents asynchronously was the best solution to reduce bandwidth and resources usage. Also, a nice menu where you can hide points inflated inside a Category was automatically generated through a tag system inside the CMS.
+                        Finally, a Reference Map of the presence of <a href="https://www.cft-group.com/group/global_references/default.aspx">CFT in the World</a>, was important to be included inside the CMS. So, a really hard work and integration with Google Maps API was done. Points are automatically obtained from a Database populated inside the CMS, descriptions of points are got with an AJAX call (NOT loaded with the main json where points are placed). This decision was crucial since the user is really not interested in ALL the points, but some of them. So, loading the contents asynchronously was the best solution to reduce bandwidth and resources usage. Also, a nice menu where you can hide points inflated inside a Category was automatically generated through a tag system inside the CMS.
                       </p>
                       <hr>
                       <label>Built Upon</label>
@@ -543,17 +543,17 @@
                       <h4 class="modal-title">Turismo Reggio Emilia</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://reggioemiliaturismo.provincia.re.it/page.asp?IDCategoria=2949&amp;IDSezione=19387&amp;Speciale=MappaTerritoriale">
+                      <a href="https://reggioemiliaturismo.provincia.re.it/page.asp?IDCategoria=2949&amp;IDSezione=19387&amp;Speciale=MappaTerritoriale">
                         <img class="img-responsive" src="img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://reggioemiliaturismo.provincia.re.it/page.asp?IDCategoria=2949&amp;IDSezione=19387&amp;Speciale=MappaTerritoriale">reggioemiliaturismo.provincia.re.it</a>
+                          <a href="https://reggioemiliaturismo.provincia.re.it/page.asp?IDCategoria=2949&amp;IDSezione=19387&amp;Speciale=MappaTerritoriale">reggioemiliaturismo.provincia.re.it</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
-                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                          <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
                       </div>
                       <hr>
@@ -616,17 +616,17 @@
                       <h4 class="modal-title">Acerni</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://www.acerni.it/en/">
+                      <a href="https://www.acerni.it/en/">
                         <img class="img-responsive" src="img/portfolio/acerni.jpg" alt="Acerni">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://www.acerni.it/en/">www.acerni.it/en/</a>
+                          <a href="https://www.acerni.it/en/">www.acerni.it/en/</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
-                          <a href="http://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
+                          <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
                       </div>
                       <hr>
@@ -683,17 +683,17 @@
                       <h4 class="modal-title">DHBW Stuttgart</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://www.dhbw-stuttgart.de/">
+                      <a href="https://www.dhbw-stuttgart.de/">
                         <img class="img-responsive" src="img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://www.dhbw-stuttgart.de/">www.dhbw-stuttgart.de</a>
+                          <a href="https://www.dhbw-stuttgart.de/">www.dhbw-stuttgart.de</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
-                          <a href="http://www.cron.eu/" title="cron :: Web Agentur TYPO3 in Stuttgart, TYPO3-Hosting in Frankfurt, cron IT GmbH">cron IT GmbH</a>
+                          <a href="https://www.cron.eu/" title="cron :: Web Agentur TYPO3 in Stuttgart, TYPO3-Hosting in Frankfurt, cron IT GmbH">cron IT GmbH</a>
                         </div>
                       </div>
                       <hr>
@@ -758,17 +758,17 @@
                       <h4 class="modal-title">Messe Stuttgart</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://www.messe-stuttgart.de/en/">
+                      <a href="https://www.messe-stuttgart.de/en/">
                         <img class="img-responsive" src="img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://www.messe-stuttgart.de/en/">www.messe-stuttgart.de/en/</a>
+                          <a href="https://www.messe-stuttgart.de/en/">www.messe-stuttgart.de/en/</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
-                          <a href="http://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
+                          <a href="https://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
                         </div>
                       </div>
                       <hr>
@@ -802,7 +802,7 @@
                         <li>Javascript (pure) / jQuery</li>
                         <li>Web Fonts</li>
                         <li>Web Icons ( custom integration of external SVGs too )</li>
-                        <li>SVG ( for the <a href="http://www.messe-stuttgart.de/en/interactive-ground-plan/">Interactive Ground Plan</a> ) </li>
+                        <li>SVG ( for the <a href="https://www.messe-stuttgart.de/en/interactive-ground-plan/">Interactive Ground Plan</a> ) </li>
                       </ul>
                       <label>Third Party Tools</label>
                       <ul class="list-unstyled">
@@ -836,17 +836,17 @@
                       <h4 class="modal-title">4P Consulting</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://www.4p-consulting.de/">
+                      <a href="https://www.4p-consulting.de/">
                         <img class="img-responsive" src="img/portfolio/4pconsulting.jpg" alt="4P Consulting">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://www.4p-consulting.de/">www.4p-consulting.de</a>
+                          <a href="https://www.4p-consulting.de/">www.4p-consulting.de</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
-                          <a href="http://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
+                          <a href="https://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
                         </div>
                       </div>
                       <hr>
@@ -913,17 +913,17 @@
                       <h4 class="modal-title">Polytechnische Gesellschaft</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://www.polytechnische.de/">
+                      <a href="https://www.polytechnische.de/">
                         <img class="img-responsive" src="img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://www.polytechnische.de/">www.polytechnische.de</a>
+                          <a href="https://www.polytechnische.de/">www.polytechnische.de</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
-                          <a href="http://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
+                          <a href="https://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
                         </div>
                       </div>
                       <hr>
@@ -995,13 +995,13 @@
                       <h4 class="modal-title">Dolci Delizie</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://dolci-delizie.de/">
+                      <a href="https://dolci-delizie.de/">
                         <img class="img-responsive" src="img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://dolci-delizie.de/">dolci-delizie.de</a>
+                          <a href="https://dolci-delizie.de/">dolci-delizie.de</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Made in:</label>
@@ -1010,7 +1010,7 @@
                       </div>
                       <hr>
                       <p>
-                        Dolci Delizie is the first class choice for everything related to bakery decorations. Because of its exclusive partnership with the well know company called <a href="http://www.modecor.it/" title="Decorazioni per pasticceria e gelateria">Modecor</a> and many others also well known, it's just the first one in the Stuttgart area which provides only the best products to the customer at a fair price.
+                        Dolci Delizie is the first class choice for everything related to bakery decorations. Because of its exclusive partnership with the well know company called <a href="https://www.modecor.it/" title="Decorazioni per pasticceria e gelateria">Modecor</a> and many others also well known, it's just the first one in the Stuttgart area which provides only the best products to the customer at a fair price.
                       </p>
                       <p>
                         The project goal was to deliver to the customer a fully working e-Commerce website, since the goal was at the beginning to sell online. Luckily the business got a little expanded and now it also have a Physical store in Weinstadt-Endersbach.
@@ -1073,18 +1073,18 @@
                       <h4 class="modal-title">&ldquo;NodeJS (for) Windows (with) MongoDB&rdquo;</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://nwm.julianxhokaxhiu.com">
+                      <a href="https://nwm.julianxhokaxhiu.com">
                         <img class="img-responsive" src="img/portfolio/nwm.jpg" alt="NWM">
                       </a>
                       <hr>
                       <p>
-                        Since I've begun following the NodeJS scene and development on this wonderful brand-new web server, only one question was inside my head: "Why isn't there any WAMP-like stack to start with the development?". And so, searching on Google, I found a guy <a href="http://www.travisglines.com/web-coding/node-js-unix-based-os-and-mongodb-num-are-the-new-lamp">talking exactly about this</a>.
+                        Since I've begun following the NodeJS scene and development on this wonderful brand-new web server, only one question was inside my head: "Why isn't there any WAMP-like stack to start with the development?". And so, searching on Google, I found a guy <a href="https://www.travisglines.com/web-coding/node-js-unix-based-os-and-mongodb-num-are-the-new-lamp">talking exactly about this</a>.
                       </p>
                       <p>
                         So, I ended up on creating my first and unique WAMP-like installer which will bring to you the latest version of NodeJS, MongoDB and NPM, directly available and integrated with the Windows Command Line utility. As it does happen likely in Linux, you're ready to work by just writing down <span class="label label-default">node</span>, <span class="label label-default">mongo</span> or just <span class="label label-default">npm</span>, and you're done.
                       </p>
                       <p>
-                        A future plan of this stack, is to implement an Auto-Update feature which will not require you to re-download the entire stack, but only the updated single part, and also, to give the freedom to the user to update what they want. No more bulks of updates, you just do it by yourself. And, because of this I've begun to write down a simple Package Manager based on JSON structure, called <a href="http://github.com/julianxhokaxhiu/JPM">JPM</a>.
+                        A future plan of this stack, is to implement an Auto-Update feature which will not require you to re-download the entire stack, but only the updated single part, and also, to give the freedom to the user to update what they want. No more bulks of updates, you just do it by yourself. And, because of this I've begun to write down a simple Package Manager based on JSON structure, called <a href="https://github.com/julianxhokaxhiu/JPM">JPM</a>.
                       </p>
                       <p>
                         During time, the NodeJS stack and installer reached a very mature state, and the full stack was superseded by other cool package managers for Windows such as <a href="https://chocolatey.org/">Chocolatey Package Manager</a>. Therefore the project <strong>is now deprecated</strong>.
@@ -1114,13 +1114,13 @@
                       <h4 class="modal-title">Linux DaVinci</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://linuxdavinci.julianxhokaxhiu.com">
+                      <a href="https://linuxdavinci.julianxhokaxhiu.com">
                         <img class="img-responsive" src="img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
                       </a>
                       <div class="row">
                         <div class="col-xs-12">
                           <label>Website:</label>
-                          <a href="http://linuxdavinci.julianxhokaxhiu.com">linuxdavinci.julianxhokaxhiu.com</a>
+                          <a href="https://linuxdavinci.julianxhokaxhiu.com">linuxdavinci.julianxhokaxhiu.com</a>
                         </div>
                       </div>
                       <hr>
@@ -1133,7 +1133,7 @@
                       <hr>
                       <label>Made For</label>
                       <ul class="list-unstyled">
-                        <li><a href="http://www.itis.pr.it/">I.T.I.S. "Leonardo Da Vinci"</a> Parma, Italy</li>
+                        <li><a href="https://www.itis.pr.it/">I.T.I.S. "Leonardo Da Vinci"</a> Parma, Italy</li>
                       </ul>
                       <label>Based Upon</label>
                       <ul class="list-unstyled">
@@ -1141,7 +1141,7 @@
                       </ul>
                       <label>Components Included</label>
                       <ul class="list-unstyled">
-                        <li>See the full list in the <a href="http://nwm.julianxhokaxhiu.com">official website</a></li>
+                        <li>See the full list in the <a href="https://nwm.julianxhokaxhiu.com">official website</a></li>
                       </ul>
                     </div>
                   </div>
@@ -1164,13 +1164,13 @@
                       <h4 class="modal-title">GitHub</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://github.com/julianxhokaxhiu">
+                      <a href="https://github.com/julianxhokaxhiu">
                         <img class="img-responsive" src="img/portfolio/github.jpg" alt="GitHub">
                       </a>
                       <div class="row">
                         <div class="col-xs-12">
                           <label>Website:</label>
-                          <a href="http://github.com/julianxhokaxhiu">github.com/julianxhokaxhiu</a>
+                          <a href="https://github.com/julianxhokaxhiu">github.com/julianxhokaxhiu</a>
                         </div>
                       </div>
                       <hr>
@@ -1198,13 +1198,13 @@
                       <h4 class="modal-title">Web Developer Italiani</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://www.facebook.com/groups/webdeveloperitaliani/">
+                      <a href="https://www.facebook.com/groups/webdeveloperitaliani/">
                         <img class="img-responsive" src="img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
                           <label>Website:</label>
-                          <a href="http://www.facebook.com/groups/webdeveloperitaliani/"><i class="ion-social-facebook"></i> / webdeveloperitaliani</a>
+                          <a href="https://www.facebook.com/groups/webdeveloperitaliani/"><i class="ion-social-facebook"></i> / webdeveloperitaliani</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 text-right-not-xs">
                           <label>Role:</label>
@@ -1213,7 +1213,7 @@
                       </div>
                       <hr>
                       <p>
-                        This community was born in collaboration with <a href="http://www.facebook.com/Vikey89">Vincenzo Provenza</a> and mantained with <a href="http://www.facebook.com/groups/webdeveloperitaliani/admins/">other guys</a>.
+                        This community was born in collaboration with <a href="https://www.facebook.com/Vikey89">Vincenzo Provenza</a> and mantained with <a href="https://www.facebook.com/groups/webdeveloperitaliani/admins/">other guys</a>.
                       </p>
                       <p>
                         Main goal of this group was to create the best place where Italian Developers can talk about ideas, experience and co-operation on new projects. The best place where best developers can easily get in touch with skilled ones, or help newcomers to get the things done, by giving them little help or explaining things. Just something like Stack Overflow, but much more little and based on Facebook Groups communities.
@@ -1239,13 +1239,13 @@
                       <h4 class="modal-title">Italian Developers</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="http://plus.google.com/u/0/communities/108809018737113333182">
+                      <a href="https://plus.google.com/u/0/communities/108809018737113333182">
                         <img class="img-responsive" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
                       </a>
                       <div class="row">
                         <div class="col-xs-12 col-sm-7">
                           <label>Website:</label>
-                          <a href="http://plus.google.com/u/0/communities/108809018737113333182"><i class="ion-social-googleplus"></i> /communities/108809018737113333182</a>
+                          <a href="https://plus.google.com/u/0/communities/108809018737113333182"><i class="ion-social-googleplus"></i> /communities/108809018737113333182</a>
                         </div>
                         <div class="col-xs-12 col-sm-5 text-right-not-xs">
                           <label>Role:</label>
@@ -1254,7 +1254,7 @@
                       </div>
                       <hr>
                       <p>
-                        This community was born in collaboration with <a href="http://plus.google.com/u/0/104511115348488853028">Antonio Barra</a> and mantained with <a href="http://plus.google.com/u/0/communities/108809018737113333182/members/moderator">other guys</a>.
+                        This community was born in collaboration with <a href="https://plus.google.com/u/0/104511115348488853028">Antonio Barra</a> and mantained with <a href="https://plus.google.com/u/0/communities/108809018737113333182/members/moderator">other guys</a>.
                       </p>
                       <p>
                         Main goal of this group was to create the best place where Italian Developers can talk about ideas, experience and co-operation each other on new projects. The best place where best developers can easily get in touch with skilled ones, or help newcomers to get the things done, by giving them little help or explaining things. Just something like Stack Overflow, but much more little and based on Google+ Communities.
