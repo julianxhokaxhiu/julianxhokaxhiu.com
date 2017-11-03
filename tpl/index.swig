@@ -124,7 +124,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://mercedes-benz.io/">
-                  <span><img class="img-responsive" src="img/work-experience/cinteo.png" alt=""></span>
+                  <span><img class="img-responsive" src="img/work-experience/mbio.png" alt=""></span>
                   <h3>Mercedes-Benz.io GmbH</h3>
                 </a>
                 <h4>Software Engineer (with focus on FrontEnd)</h4>
