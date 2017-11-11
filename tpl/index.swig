@@ -189,7 +189,6 @@
                   <li><span><a href="https://en.wikipedia.org/wiki/Active_Server_Pages">ASP Classic</a></span></li>
                   <li><span><a href="https://www.asp.net">ASP.NET ( VB.NET / C# )</a></span></li>
                   <li><span>SQL ( <a href="https://www.microsoft.com/en-us/server-cloud/products/sql-server">Microsoft SQL</a> / <a href="https://www.mysql.com">MySQL</a> / <a href="https://mariadb.org">MariaDB</a> / <a href="https://www.postgresql.org">PostgreSQL</a> )</span></li>
-                  <li><span><a href="https://www.docker.com/">Docker</a></span></li>
                 </ul>
               </div>
             </div>
@@ -213,8 +212,29 @@
                 <h3>Mobile Development</h3>
                 <ul class="list-unstyled">
                   <li><span>Objective-C / Cocoa Touch</span></li>
-                  <li class="jx-wip"><span>Java / Android</span></li>
+                  <li class="jx-hold"><span>Java / Android</span></li>
                   <li><span>Third Party Frameworks ( <a href="https://phonegap.com">PhoneGap</a> / <a href="https://www.appcelerator.com/product">Titanium</a> / etc. )</span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <hr class="jx-no-border">
+          <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>Container Orchestration</h3>
+                <ul class="list-unstyled">
+                  <li><span><a href="https://www.docker.com/">Docker</a></span></li>
+                  <li class="jx-wip"><span><a href="https://kubernetes.io/">Kubernetes</a></span></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>Cloud Platform</h3>
+                <ul class="list-unstyled">
+                  <li class="jx-wip"><span><a href="https://aws.amazon.com/">AWS (S3, EC2, Lambda, Cloudfront, etc.)</a></span></li>
+                  <li class="jx-wip"><span><a href="https://azure.microsoft.com/">Azure (Virtual Machines, Virtual Networks, etc.)</a></span></li>
                 </ul>
               </div>
             </div>
@@ -224,7 +244,7 @@
             <div class="col-md-12">
               <ul class="list-inline">
                 <li>Fully understood, and ready for the future</li>
-                <li class="jx-wip">Studying, but ready to write code</li>
+                <li class="jx-wip">Studying, but ready to achive goals</li>
               </ul>
             </div>
           </div>

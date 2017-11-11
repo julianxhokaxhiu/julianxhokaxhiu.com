@@ -328,6 +328,12 @@ hr.jx-no-border {
         color: $skillsCheckYellow;
       }
     }
+    &.jx-hold {
+      &:before {
+        content: $ionicon-var-android-checkbox-blank;
+        color: $skillsCheckRed;
+      }
+    }
     &:before {
       @include ion-icon();
       content: $ionicon-var-android-checkbox-outline;
