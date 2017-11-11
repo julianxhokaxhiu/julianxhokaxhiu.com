@@ -233,8 +233,8 @@
               <div class="jx-panel">
                 <h3>Cloud Platform</h3>
                 <ul class="list-unstyled">
-                  <li class="jx-wip"><span><a href="https://aws.amazon.com/">AWS (S3, EC2, Lambda, Cloudfront, etc.)</a></span></li>
-                  <li class="jx-wip"><span><a href="https://azure.microsoft.com/">Azure (Virtual Machines, Virtual Networks, etc.)</a></span></li>
+                  <li class="jx-wip"><span><a href="https://aws.amazon.com/">AWS</a> (S3, EC2, Lambda, Cloudfront, etc.)</span></li>
+                  <li class="jx-wip"><span><a href="https://azure.microsoft.com/">Azure</a> (Virtual Machines, Virtual Networks, etc.)</span></li>
                 </ul>
               </div>
             </div>
