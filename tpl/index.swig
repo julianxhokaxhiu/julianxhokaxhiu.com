@@ -245,6 +245,7 @@
               <ul class="list-inline">
                 <li>Fully understood, and ready for the future</li>
                 <li class="jx-wip">Studying, but ready to achive goals</li>
+                <li class="jx-hold">Studied, and not interested to continue further</li>
               </ul>
             </div>
           </div>
