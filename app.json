@@ -5,7 +5,7 @@
 		},
 		"livereload" : {
 			"port" : 35729,
-			"host" : "dev"
+			"host" : "onedev"
 		},
 		"server" : {
 			"port" : 8080
