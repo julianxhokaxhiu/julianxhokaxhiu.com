@@ -22,7 +22,7 @@ script:
 - npm run deploy
 
 deploy:
-  local_dir: _dist/
+  local-dir: _dist/
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
