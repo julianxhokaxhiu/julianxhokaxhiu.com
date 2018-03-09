@@ -19,7 +19,7 @@ install:
 - npm install
 
 script:
-- grunt build_deploy
+- npm run deploy
 
 deploy:
   local_dir: _dist/

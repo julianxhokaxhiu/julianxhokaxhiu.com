@@ -29,6 +29,7 @@
   "scripts": {
     "postinstall": "bower install",
     "build": "grunt build",
-    "serve": "grunt server"
+    "serve": "grunt server",
+    "deploy": "grunt build_deploy"
   }
 }
