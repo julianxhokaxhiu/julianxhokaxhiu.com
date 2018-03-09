@@ -52,6 +52,7 @@
   <div id="jx-scrollspy-target" class="jx-sidebar hidden-print hidden-xs hidden-sm">
     <ul class="nav">
       <li class="active"><a href="#welcome"><span>Welcome</span></a></li>
+      <li><a href="#aboutme"><span>About me</span></a></li>
       <li><a href="#work-experience"><span>Work Experience</span></a></li>
       <li><a href="#skills"><span>Skills</span></a></li>
       <li><a href="#portfolio"><span>Portfolio</span></a></li>

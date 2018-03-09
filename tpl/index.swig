@@ -60,6 +60,89 @@
       </div>
     </div>
   </div>
+  <div id="aboutme" class="jx-section jx-aboutme">
+    <div class="container">
+      <h2>About me</h2>
+      <div class="row">
+        <div class="col-xs-6 col-sm-3 col-md-2">
+          <h3>The Kick-starter</h3>
+        </div>
+        <div class="col-xs-12">
+          <p>Give me a mission, give me a vision and I will take up the rest.</p>
+          <p>If I have to work solo on a topic I am not afraid, as long as this will contribute to be a global benefit.<br>For the organization itself, for the colleagues or for the outside world.</p>
+          <p>If you believe on this, I believe on it too.<br>Inspire me, and you will get inspired from the outcome.</p>
+          <p>Working in Startups for most people is the fear of losing comfort in the long term.<br>I personally enjoy contributing in a thrilling environment.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-6 col-sm-3 col-md-2">
+          <h3>The Forger</h3>
+        </div>
+        <div class="col-xs-12">
+          <p>I like to come up with new solutions when I see "a missing block". Most of the time I do this in my spare time ( after-work or on the weekend ).</p>
+          <p>Although I much rather prefer to invest this time at my Job. Because I believe working with someone is helping each other. The help is not only a one side communication channel.</p>
+          <p>Experimenting is in my blood, archiving perfection too. Restricting goals in time is something I also learned. I recognize limits, yet if prefer to squeeze the perfection is every product I work.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-6 col-sm-3 col-md-2">
+          <h3>The Debugger</h3>
+        </div>
+        <div class="col-xs-12">
+          <p>Debugging is usually a task no one really prefers. This one is not me. I actually enjoy it.</p>
+          <p>Why? Because I believe that debugging is a learning process, a way to understand the limits of any argument that is related to the task<br>Let it be an argument, a topic, a technical tool, a knowledge area, whatever.</p>
+          <p>Learning to recognize the limits ( technically, conceptually or whatever ), helps on knowing where you can push further.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-6 col-sm-3 col-md-2">
+          <h3>The Team-player</h3>
+        </div>
+        <div class="col-xs-12">
+          <p>Working solo is not a problem for me, although working in a team makes my job more enjoyable. This is why I always prefer working in a team, rather than alone.</p>
+          <p>I don't mind differences of any kind, let it be culture, technological based or whatever. As long as we push on the same direction, I will be there.</p>
+          <p>I truly believe in the team spirit, I am ready to take responsibilities if I fail somewhere. Learning to fail, is the first step to get better.</p>
+          <p>Learn to fail, fail to learn.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-6 col-sm-3 col-md-2">
+          <h3>The Open mind</h3>
+        </div>
+        <div class="col-xs-12">
+          <p>Working with different set of technologies, makes you realize nothing is perfect. Instead you prefer to focus on what does solve your issue.</p>
+          <p>This is why I do personally not focus on a specific tool, but instead I focus on which requirement is being covered and how.</p>
+          <p>When I forge an architecture ( or look at one ) of any product, I always keep in mind my left and right side. Nothing is there casually. Everything must have a reason.</p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <p>Curious to know more about me? Feel free to get in touch using any of the social profiles.</p>
+          <ul class="list-inline">
+            <li>
+              <a href="https://www.facebook.com/julian.xhokaxhiu">
+                <i class="fa fa-facebook"></i>
+                <span>Facebook</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://twitter.com/JulianXhokaxhiu">
+                <i class="fa fa-twitter"></i>
+                <span>Twitter</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://plus.google.com/u/0/+JulianXhokaxhiu">
+                <i class="fa fa-google-plus"></i>
+                <span>Google+</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
   <div id="work-experience" class="jx-section jx-work-experience">
     <div class="container">
       <div class="row">
@@ -142,13 +225,13 @@
               <ul class="list-inline">
                 <li>
                   <a href="https://www.linkedin.com/in/julianxhokaxhiu">
-                    <i class="fa fa-linkedin fa-fw"></i>
+                    <i class="fa fa-linkedin"></i>
                     <span>Linkedin</span>
                   </a>
                 </li>
                 <li>
                   <a href="https://www.xing.com/profile/Julian_Xhokaxhiu">
-                    <i class="fa fa-xing fa-fw"></i>
+                    <i class="fa fa-xing"></i>
                     <span>Xing</span>
                   </a>
                 </li>
