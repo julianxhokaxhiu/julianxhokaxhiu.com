@@ -3,9 +3,10 @@
 /tpl/css
 /tpl/css-print
 /.sass-cache
-/_release
+/_dist
 /_typo3ext
 /webfonts
 /webicons
 /.grunt
 /tpl/scss/_bhn-icons.scss
+package-lock.json
