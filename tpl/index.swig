@@ -255,6 +255,7 @@
                   <li><span>HTML5</span></li>
                   <li><span>CSS3</span></li>
                   <li><span>ECMAScript 5 ( Javascript )</span></li>
+                  <li><span>ECMAScript 2015-2017 ( Promise/Async/Await )</span></li>
                   <li><span><a href="https://jquery.com">jQuery 1.x / 2.x / 3.x</a></span></li>
                   <li><span><a href="https://jqueryui.com">jQuery UI 1.x</a></span></li>
                   <li><span><a href="https://getbootstrap.com">Bootstrap 2.x / 3.x / 4.x</a></span></li>
