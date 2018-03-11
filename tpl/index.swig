@@ -309,7 +309,7 @@
                 <h3>Container Orchestration</h3>
                 <ul class="list-unstyled">
                   <li><span><a href="https://www.docker.com/">Docker</a></span></li>
-                  <li class="jx-wip"><span><a href="https://kubernetes.io/">Kubernetes</a></span></li>
+                  <li><span><a href="https://kubernetes.io/">Kubernetes</a> ( <a href="pdf/lfs258.pdf">LFS258 Certificate</a> )</span></li>
                 </ul>
               </div>
             </div>
