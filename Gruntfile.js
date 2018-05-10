@@ -220,6 +220,9 @@ module.exports = function(grunt) {
             }
         },
         imagemin: {
+          options: {
+            optimizationLevel: 7
+          },
           build: {
             files: [{
               expand: true,                  // Enable dynamic expansion
