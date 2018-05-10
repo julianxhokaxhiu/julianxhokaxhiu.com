@@ -527,7 +527,7 @@ module.exports = function(grunt) {
     });
 
     grunt.registerTask('build_deploy', 'Build a mockup ready for deployment sync', [
-    	'clean',
+        'clean',
         'fontgen',
         'webfont',
         'concat:webfonts',
@@ -539,6 +539,7 @@ module.exports = function(grunt) {
         'tasty_swig:deploy',
         'copy:deploy',
         'autoprefixer:deploy',
+        'imagemin:build',
         'clean:mapFiles',
         'clean:webfonts',
         'clean:webicons'
