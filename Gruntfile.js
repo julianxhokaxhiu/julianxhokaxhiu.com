@@ -22,6 +22,8 @@
 	SOFTWARE.
 */
 const imagemin = require('imagemin')
+const imageminGifsicle = require('imagemin-gifsicle')
+const imageminOptipng = require('imagemin-optipng')
 const imageminMozjpeg = require('imagemin-mozjpeg')
 
 module.exports = function(grunt) {
@@ -226,8 +228,8 @@ module.exports = function(grunt) {
           options: {
             optimizationLevel: 7,
             use: [
-                imagemin.gifsicle(),
-                imagemin.optipng(),
+                imageminGifsicle(),
+                imageminOptipng(),
                 imageminMozjpeg({
                     quality: 20
                 })
