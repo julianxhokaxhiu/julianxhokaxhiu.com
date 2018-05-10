@@ -21,6 +21,9 @@
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
 */
+const imagemin = require('imagemin')
+const imageminMozjpeg = require('imagemin-mozjpeg')
+
 module.exports = function(grunt) {
 
 	// Load Tasks
@@ -221,7 +224,14 @@ module.exports = function(grunt) {
         },
         imagemin: {
           options: {
-            optimizationLevel: 7
+            optimizationLevel: 7,
+            use: [
+                imagemin.gifsicle(),
+                imagemin.optipng(),
+                imageminMozjpeg({
+                    quality: 20
+                })
+            ]
           },
           build: {
             files: [{

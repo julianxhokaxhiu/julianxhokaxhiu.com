@@ -22,6 +22,7 @@
     "grunt-tasty-swig": "github:julianxhokaxhiu/grunt-tasty-swig",
     "grunt-webfont": "^1.7.1",
     "grunt-yui-compressor": "github:julianxhokaxhiu/grunt-yui-compressor#develop",
+    "imagemin-mozjpeg": "*",
     "load-grunt-tasks": "*",
     "ttf2eot": "*",
     "ttf2svg": "*"
