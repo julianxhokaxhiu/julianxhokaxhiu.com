@@ -185,7 +185,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://aexea.de">
-                  <span><img class="img-responsive" src="img/work-experience/aexea.jpg" alt=""></span>
+                  <span><img class="img-responsive" src="img/work-experience/aexea.png" alt=""></span>
                   <h3>aexea GmbH<br>communication. content. consulting</h3>
                 </a>
                 <h4>Agile Senior FrontEnd Developer</h4>
