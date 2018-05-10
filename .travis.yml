@@ -13,7 +13,7 @@ branches:
 
 before_install:
 - sudo apt-get -qq update
-- sudo apt-get install -y fontforge openjdk-8-jre libbatik-java
+- sudo apt-get install -y fontforge openjdk-8-jre libbatik-java autoconf libtool pkg-config nasm build-essential
 
 install:
 - npm install
