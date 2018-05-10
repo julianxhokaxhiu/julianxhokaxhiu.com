@@ -322,6 +322,14 @@
                 </ul>
               </div>
             </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>Infrastructure as Code</h3>
+                <ul class="list-unstyled">
+                  <li class="jx-wip"><span><a href="https://www.terraform.io/">Terraform</a></span></li>
+                </ul>
+              </div>
+            </div>
           </div>
           <hr class="jx-no-border">
           <div class="row">
