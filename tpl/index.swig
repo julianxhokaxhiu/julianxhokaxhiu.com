@@ -317,7 +317,7 @@
               <div class="jx-panel">
                 <h3>Cloud Platform</h3>
                 <ul class="list-unstyled">
-                  <li class="jx-wip"><span><a href="https://aws.amazon.com/">AWS</a> (S3, EC2, Lambda, Cloudfront, etc.)</span></li>
+                  <li><span><a href="https://aws.amazon.com/">AWS</a> (S3, EC2, VPC, Lambda, Cloudfront, ECS, EKS, etc.)</span></li>
                   <li class="jx-wip"><span><a href="https://azure.microsoft.com/">Azure</a> (Virtual Machines, Virtual Networks, etc.)</span></li>
                 </ul>
               </div>
@@ -326,7 +326,7 @@
               <div class="jx-panel">
                 <h3>Infrastructure as Code</h3>
                 <ul class="list-unstyled">
-                  <li class="jx-wip"><span><a href="https://www.terraform.io/">Terraform</a></span></li>
+                  <li><span><a href="https://www.terraform.io/">Terraform</a></span></li>
                 </ul>
               </div>
             </div>
