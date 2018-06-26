@@ -330,6 +330,30 @@
                 </ul>
               </div>
             </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>CICD</h3>
+                <ul class="list-unstyled">
+                  <li><span><a href="https://jenkins.io/">Jenkins</a></span></li>
+                  <li><span><a href="https://travis-ci.org/">Travis CI</a></span></li>
+                  <li><span><a href="https://github.com/drone/drone">Drone CI</a></span></li>
+                  <li><span><a href="https://about.gitlab.com/features/gitlab-ci-cd/">Gitlab CI</a></span></li>
+                  <li class="jx-wip"><span><a href="https://concourse-ci.org/">Concourse CI</a></span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <hr class="jx-no-border">
+          <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>UNIX Tooling</h3>
+                <ul class="list-unstyled">
+                  <li><span><a href="https://www.gnu.org/software/bash/">Bash</a></span></li>
+                  <li><span><a href="https://github.com/systemd/systemd">systemd</a></span></li>
+                </ul>
+              </div>
+            </div>
           </div>
           <hr class="jx-no-border">
           <div class="row">
