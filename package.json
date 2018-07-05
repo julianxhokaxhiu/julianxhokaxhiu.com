@@ -24,6 +24,7 @@
     "grunt-yui-compressor": "github:julianxhokaxhiu/grunt-yui-compressor#develop",
     "imagemin-mozjpeg": "*",
     "load-grunt-tasks": "*",
+    "sass": "*",
     "ttf2eot": "*",
     "ttf2svg": "*"
   },

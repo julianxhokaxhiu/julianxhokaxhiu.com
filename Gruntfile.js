@@ -25,6 +25,7 @@ const imagemin = require('imagemin')
 const imageminGifsicle = require('imagemin-gifsicle')
 const imageminOptipng = require('imagemin-optipng')
 const imageminMozjpeg = require('imagemin-mozjpeg')
+const sass = require('sass')
 
 module.exports = function(grunt) {
 
@@ -111,6 +112,7 @@ module.exports = function(grunt) {
         },
     		sass: {
           options: {
+              implementation: sass,
               style: 'compressed',
               loadPath: '.'
           },
