@@ -21,7 +21,6 @@
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
 */
-const imagemin = require('imagemin')
 const imageminGifsicle = require('imagemin-gifsicle')
 const imageminOptipng = require('imagemin-optipng')
 const imageminMozjpeg = require('imagemin-mozjpeg')
