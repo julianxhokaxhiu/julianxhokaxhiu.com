@@ -327,6 +327,7 @@
                 <h3>Infrastructure as Code</h3>
                 <ul class="list-unstyled">
                   <li><span><a href="https://www.terraform.io/">Terraform</a></span></li>
+                  <li><span><a href="https://serverless.com/">Serverless</a></span></li>
                 </ul>
               </div>
             </div>
