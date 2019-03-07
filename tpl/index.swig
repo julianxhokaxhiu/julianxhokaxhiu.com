@@ -46,12 +46,14 @@
                 <dd>1989</dd>
                 <dt>Job profile</dt>
                 <dd><h2>Full Stack Developer, IT PRACTISED (ISCED 4)</h2></dd>
+                {#
                 <dt>Currently working for</dt>
                 <dd><a href="https://mercedes-benz.io/">Mercedes-Benz.io GmbH</a></dd>
                 <dt>as</dt>
                 <dd>Software/Cloud Engineer</dd>
                 <dt>since</dt>
                 <dd>JUL / 2016</dd>
+                #}
               </dl>
               <a href="#"></a>
             </div>
@@ -211,7 +213,7 @@
                   <h3>Mercedes-Benz.io GmbH</h3>
                 </a>
                 <h4>Software/Cloud Engineer</h4>
-                <span>JUL/2016</span>
+                <span>JUL/2016 - FEB/2019</span>
                 <span>Stuttgart, Germany</span>
               </div>
             </div>
