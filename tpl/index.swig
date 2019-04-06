@@ -46,14 +46,12 @@
                 <dd>1989</dd>
                 <dt>Job profile</dt>
                 <dd><h2>Full Stack Developer, IT PRACTISED (ISCED 4)</h2></dd>
-                {#
                 <dt>Currently working for</dt>
-                <dd><a href="https://mercedes-benz.io/">Mercedes-Benz.io GmbH</a></dd>
+                <dd><a href="https://www.netcentric.biz/">Netcentric, A Cognizant Digital Business</a></dd>
                 <dt>as</dt>
-                <dd>Software/Cloud Engineer</dd>
+                <dd>Cloud/System Engineer</dd>
                 <dt>since</dt>
-                <dd>JUL / 2016</dd>
-                #}
+                <dd>APR / 2019</dd>
               </dl>
               <a href="#"></a>
             </div>
@@ -215,6 +213,17 @@
                 <h4>Software/Cloud Engineer</h4>
                 <span>JUL/2016 - FEB/2019</span>
                 <span>Stuttgart, Germany</span>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+              <div class="jx-work">
+                <a href="https://www.netcentric.biz/">
+                  <span><img class="img-responsive" src="img/work-experience/nc.png" alt=""></span>
+                  <h3>Netcentric, A Cognizant Digital Business</h3>
+                </a>
+                <h4>Cloud/System Engineer</h4>
+                <span>APR/2019</span>
+                <span>Barcelona, Spain</span>
               </div>
             </div>
           </div>
