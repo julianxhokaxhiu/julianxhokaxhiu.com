@@ -8,7 +8,7 @@
           <div class="row">
             <div class="col-xs-12 col-sm-5 col-md-4">
               <a href="https://about.me/julianxhokaxhiu">
-                <img class="img-responsive img-circle" src="img/me_24bit.png" alt="Julian Xhokaxhiu - Frontend Web Developer">
+                <img class="img-responsive img-circle" src="img/me_24bit.png" alt="Julian Xhokaxhiu">
               </a>
               <div class="text-center">
                 <em>"Impossible Is Nothing"</em>
@@ -49,7 +49,7 @@
                 <dt>Currently working for</dt>
                 <dd><a href="https://www.netcentric.biz/">Netcentric, A Cognizant Digital Business</a></dd>
                 <dt>as</dt>
-                <dd>Cloud/System Engineer</dd>
+                <dd>Senior System/Cloud Operations Engineer</dd>
                 <dt>since</dt>
                 <dd>APR / 2019</dd>
               </dl>
@@ -210,7 +210,7 @@
                   <span><img class="img-responsive" src="img/work-experience/mbio.png" alt=""></span>
                   <h3>Mercedes-Benz.io GmbH</h3>
                 </a>
-                <h4>Software/Cloud Engineer</h4>
+                <h4>Senior Software/Cloud Engineer</h4>
                 <span>JUL/2016 - FEB/2019</span>
                 <span>Stuttgart, Germany</span>
               </div>
@@ -221,7 +221,7 @@
                   <span><img class="img-responsive" src="img/work-experience/nc.png" alt=""></span>
                   <h3>Netcentric, A Cognizant Digital Business</h3>
                 </a>
-                <h4>Cloud/System Engineer</h4>
+                <h4>Senior System/Cloud Operations Engineer</h4>
                 <span>APR/2019</span>
                 <span>Barcelona, Spain</span>
               </div>
