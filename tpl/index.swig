@@ -21,9 +21,6 @@
                     <a href="https://twitter.com/JulianXhokaxhiu" title="Twitter" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-twitter fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="https://plus.google.com/u/0/+JulianXhokaxhiu" title="Google+" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-google-plus fa-2x"></i></a>
-                  </li>
-                  <li>
                     <a href="https://www.linkedin.com/in/julianxhokaxhiu" title="Linkedin" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-linkedin fa-2x"></i></a>
                   </li>
                   <li>
@@ -130,12 +127,6 @@
               <a href="https://twitter.com/JulianXhokaxhiu">
                 <i class="fa fa-twitter"></i>
                 <span>Twitter</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://plus.google.com/u/0/+JulianXhokaxhiu">
-                <i class="fa fa-google-plus"></i>
-                <span>Google+</span>
               </a>
             </li>
           </ul>
@@ -1388,22 +1379,16 @@
                       <h4 class="modal-title">Italian Developers</h4>
                     </div>
                     <div class="modal-body">
-                      <a href="https://plus.google.com/u/0/communities/108809018737113333182">
-                        <img class="img-responsive" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
-                      </a>
+                      <img class="img-responsive" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
                       <div class="row">
-                        <div class="col-xs-12 col-sm-7">
-                          <label>Website:</label>
-                          <a href="https://plus.google.com/u/0/communities/108809018737113333182"><i class="ion-social-googleplus"></i> /communities/108809018737113333182</a>
-                        </div>
-                        <div class="col-xs-12 col-sm-5 text-right-not-xs">
+                        <div class="col-xs-12 text-right-not-xs">
                           <label>Role:</label>
                           <span>Moderator / Co-Founder</span>
                         </div>
                       </div>
                       <hr>
                       <p>
-                        This community was born in collaboration with <a href="https://plus.google.com/u/0/104511115348488853028">Antonio Barra</a> and mantained with <a href="https://plus.google.com/u/0/communities/108809018737113333182/members/moderator">other guys</a>.
+                        This community was born in collaboration with <a href="https://www.facebook.com/antonio.barra">Antonio Barra</a> and mantained with other members as well.
                       </p>
                       <p>
                         Main goal of this group was to create the best place where Italian Developers can talk about ideas, experience and co-operation each other on new projects. The best place where best developers can easily get in touch with skilled ones, or help newcomers to get the things done, by giving them little help or explaining things. Just something like Stack Overflow, but much more little and based on Google+ Communities.
