@@ -46,7 +46,7 @@
                 <dt>Currently working for</dt>
                 <dd><a href="https://www.netcentric.biz/">Netcentric, A Cognizant Digital Business</a></dd>
                 <dt>as</dt>
-                <dd>Senior System/Cloud Operations Engineer</dd>
+                <dd>Senior System/DevOps/Cloud Operations Engineer</dd>
                 <dt>since</dt>
                 <dd>APR / 2019</dd>
               </dl>
@@ -212,7 +212,7 @@
                   <span><img class="img-responsive" src="img/work-experience/nc.png" alt=""></span>
                   <h3>Netcentric, A Cognizant Digital Business</h3>
                 </a>
-                <h4>Senior System/Cloud Operations Engineer</h4>
+                <h4>Senior System/DevOps/Cloud Operations Engineer</h4>
                 <span>APR/2019</span>
                 <span>Barcelona, Spain</span>
               </div>
