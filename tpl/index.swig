@@ -341,7 +341,9 @@
                   <li><span><a href="https://travis-ci.org/">Travis CI</a></span></li>
                   <li><span><a href="https://github.com/drone/drone">Drone CI</a></span></li>
                   <li><span><a href="https://about.gitlab.com/features/gitlab-ci-cd/">Gitlab CI</a></span></li>
-                  <li class="jx-wip"><span><a href="https://concourse-ci.org/">Concourse CI</a></span></li>
+                  <li><span><a href="https://concourse-ci.org/">Concourse CI</a></span></li>
+                  <li><span><a href="https://appveyor.com/">AppVeyor</a></span></li>
+                  <li><span><a href="https://confluence.atlassian.com/bamboo/bamboo-specs-894743906.html">Bamboo YAML Specs</a></span></li>
                 </ul>
               </div>
             </div>
