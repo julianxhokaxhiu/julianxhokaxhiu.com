@@ -42,7 +42,7 @@
                 <dt>Born in</dt>
                 <dd>1989</dd>
                 <dt>Job profile</dt>
-                <dd><h2>Full Stack Developer, IT PRACTISED (ISCED 4)</h2></dd>
+                <dd><h2>Solution Architect/Engineer</h2></dd>
                 <dt>Currently working for</dt>
                 <dd><a href="https://www.netcentric.biz/">Netcentric, A Cognizant Digital Business</a></dd>
                 <dt>as</dt>
@@ -87,7 +87,7 @@
         </div>
         <div class="col-xs-12">
           <p>Debugging is usually a task no one really prefers. This one is not me. I actually enjoy it.</p>
-          <p>Why? Because I believe that debugging is a learning process, a way to understand the limits of any argument that is related to the task<br>Let it be an argument, a topic, a technical tool, a knowledge area, whatever.</p>
+          <p>Why? Because I believe that debugging is a learning process, a way to understand the limits of any topic that is related to the task.<br>Let it be an area of focus, a technical tool, a knowledge area, whatever.</p>
           <p>Learning to recognize the limits ( technically, conceptually or whatever ), helps on knowing where you can push further.</p>
         </div>
       </div>
@@ -107,7 +107,7 @@
           <h3>The Open mind</h3>
         </div>
         <div class="col-xs-12">
-          <p>Working with different set of technologies, makes you realize nothing is perfect. Instead you prefer to focus on what does solve your issue.</p>
+          <p>Working with different set of technologies, makes you realize nothing is perfect. Instead you prefer to focus on what does solve your immediate problems.</p>
           <p>This is why I do personally not focus on a specific tool, but instead I focus on which requirement is being covered and how.</p>
           <p>When I forge an architecture ( or look at one ) of any product, I always keep in mind my left and right side. Nothing is there casually. Everything must have a reason.</p>
         </div>
