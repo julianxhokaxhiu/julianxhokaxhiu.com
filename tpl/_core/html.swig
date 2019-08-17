@@ -8,7 +8,7 @@
   <meta property="og:type" content="profile">
   <meta property="og:title" content="Julian Xhokaxhiu's Portfolio">
   <meta property="og:image" content="https://julianxhokaxhiu.com/img/social/cover.png">
-  <meta property="og:description" content="Julian Xhokaxhiu - FULL STACK DEVELOPER, IT PRACTISED (ISCED 4) - My personal motto? 'Impossible Is Nothing'">
+  <meta property="og:description" content="Julian Xhokaxhiu - Solution Architect/Engineer - Open Source Enthusiast - My personal motto? 'Impossible Is Nothing'">
   <link href="//fonts.googleapis.com/css?family=Roboto:400,300,500,700&subset=latin,latin-ext" rel="stylesheet">
   <title>Julian Xhokaxhiu's Portfolio</title>
   {% for href in app.cssFiles.screen %}
