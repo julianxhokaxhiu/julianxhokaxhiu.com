@@ -330,6 +330,7 @@
                 <ul class="list-unstyled">
                   <li><span><a href="https://www.terraform.io/">Terraform</a></span></li>
                   <li><span><a href="https://serverless.com/">Serverless</a></span></li>
+                  <li class="jx-wip"><span><a href="https://puppet.com/">Puppet/Hiera</a></span></li>
                 </ul>
               </div>
             </div>
@@ -356,6 +357,7 @@
                 <ul class="list-unstyled">
                   <li><span><a href="https://www.gnu.org/software/bash/">Bash</a></span></li>
                   <li><span><a href="https://github.com/systemd/systemd">systemd</a></span></li>
+                  <li class="jx-wip"><span><a href="https://cmake.org/">CMake</a></span></li>
                 </ul>
               </div>
             </div>
