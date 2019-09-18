@@ -43,12 +43,14 @@
                 <dd>1989</dd>
                 <dt>Job profile</dt>
                 <dd><h2>Solution Architect/Engineer</h2></dd>
+                {#
                 <dt>Currently working for</dt>
-                <dd><a href="https://www.netcentric.biz/">Netcentric, A Cognizant Digital Business</a></dd>
+                <dd><a href="#">-</a></dd>
                 <dt>as</dt>
-                <dd>Senior System/DevOps/Cloud Operations Engineer</dd>
+                <dd>-</dd>
                 <dt>since</dt>
-                <dd>APR / 2019</dd>
+                <dd>-</dd>
+                #}
               </dl>
               <a href="#"></a>
             </div>
@@ -213,7 +215,7 @@
                   <h3>Netcentric, A Cognizant Digital Business</h3>
                 </a>
                 <h4>Senior System/DevOps/Cloud Operations Engineer</h4>
-                <span>APR/2019</span>
+                <span>APR/2019 - SEP/2019</span>
                 <span>Barcelona, Spain</span>
               </div>
             </div>
