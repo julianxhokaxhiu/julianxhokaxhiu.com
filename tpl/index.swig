@@ -1075,7 +1075,7 @@
                       <hr>
                       <p>
                         As one of the largest private foundations in Germany, Stiftung Polytechnische Gesellschaft Frankfurt am Main is dedicated to working for the benefit of Frankfurt and its citizens. Its work is concentrated in three main areas:<br>
-                        <ul>
+                        <ul class="list-unstyled">
                           <li>Education, science and technology</li>
                           <li>Arts and culture, including preservation of the city's cultural heritage</li>
                           <li>Social, charitable and humanitarian work.</li>
@@ -1194,6 +1194,86 @@
                         <li>Mozilla Firefox</li>
                         <li>Safari</li>
                         <li>Internet Explorer <span class="label label-primary">9.x / 10.x / 11.x</span></li>
+                        <li>Microsoft Edge</li>
+                        <li>iOS</li>
+                        <li>Android</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-3">
+              <a href="javascript:;" title="Mercedes-Benz">
+                <img class="img-responsive" src="img/portfolio/mercedesbenz.jpg" alt="Mercedes-Benz">
+                <span>Mercedes-Benz</span>
+              </a>
+              <div class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">Mercedes-Benz</h4>
+                    </div>
+                    <div class="modal-body">
+                      <a href="https://mercedes-benz.com/">
+                        <img class="img-responsive" src="img/portfolio/mercedesbenz.jpg" alt="Mercedes-Benz">
+                      </a>
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                          <label>Website:</label>
+                          <a href="https://mercedes-benz.com/">mercedes-benz.com</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                          <label>Made in:</label>
+                          <abbr title="Mercedes-Benz.io GmbH">Mercedes-Benz.io</abbr>
+                        </div>
+                      </div>
+                      <hr>
+                      <p>
+                        Mercedes-Benz is a German global automobile marque and a division of Daimler AG. The brand is known for luxury vehicles, buses, coaches, and trucks. The headquarters is in Stuttgart, Baden-Württemberg. (Source: <a href="https://en.wikipedia.org/wiki/Mercedes-Benz">Wikipedia</a>)
+                      </p>
+                      <p>
+                        The project goal was to create a unique next-generation platform for Daimler able to produce more leads in terms of visits and sales, either offline or online.
+                      </p>
+                      <p>
+                        Within the project I had various goals:
+                        <ul class="list-unstyled">
+                          <li><strong>As Holacracy Employee:</strong> Helping the organization in structuring the Frontend Team that would have worked across the various ecosystems living, from the core to the various SPAs</li>
+                          <li><strong>As Holacracy Employee:</strong> Contributor and Creator of the Corporate Website, creating and driving the team in order to successfully develop the Organization Website able to generate leads towards Job Recruitment</li>
+                          <li><strong>As Senior Frontend Engineer:</strong> Foster the development community living within the organization, enabling and empowering a fully autonomous ecosystem of Single Page Applications developed with various framework ( like Angular.js, React, Vuejs and many more ), to live under one single page providing a unique user experience, no matter where the user lands.</li>
+                          <li><strong>As Solution Architect:</strong> Working and coordinating with various Mercedes-Benz third-party providers, across different regions in Europe and Worldwide, centrilizing the core development as well as empowering those teams in being able to contribute with new ideas</li>
+                          <li><strong>As Cloud Operations/Engineer:</strong> Working and creating new Cloud-based solutions within the organizations using AWS, Terraform, Kubernetes, Docker, NodeJS and many more toolings and/or platforms</li>
+                          <li><strong>As DevOps Engineer:</strong> Working and empowering various team in being able to deploy with minimal downtime as well as minimum build times using Jenkins on top of Kubernetes; Providing a stable Sonarqube platform for artifacts code quality and security quality assurance</li>
+                        </ul>
+                      </p>
+                      <hr>
+                      <label>Built Upon</label>
+                      <ul class="list-unstyled">
+                        <li>Adobe Experience Manager 6.x</li>
+                      </ul>
+                      <label>Server-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>Java</li>
+                      </ul>
+                      <label>Client-Side Languages / Components</label>
+                      <ul class="list-unstyled">
+                        <li>HTML5</li>
+                        <li>CSS3</li>
+                        <li>Javascript (pure) / jQuery</li>
+                        <li>Web Fonts</li>
+                        <li>Web Icons ( custom integration of external SVGs too )</li>
+                      </ul>
+                      <label>Third Party Tools</label>
+                      <ul class="list-unstyled">
+                        <li>Adobe Analytics</li>
+                      </ul>
+                      <label>Optimized For</label>
+                      <ul class="list-unstyled">
+                        <li>Google Chrome</li>
+                        <li>Mozilla Firefox</li>
+                        <li>Safari</li>
+                        <li>Internet Explorer <span class="label label-primary">11.x</span></li>
                         <li>Microsoft Edge</li>
                         <li>iOS</li>
                         <li>Android</li>
