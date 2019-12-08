@@ -243,17 +243,10 @@ module.exports = function(grunt) {
           }
         }
       },
-      closurecompiler: {
+      uglify: {
         build: {
           files: {
             "<%= app.config.output.path %>/<%= jsMin %>": "<%= app.assets.js %>"
-          },
-          options: {
-            // Any options supported by Closure Compiler, for example:
-            compilation_level: "SIMPLE_OPTIMIZATIONS",
-
-            // Plus a simultaneous processes limit
-            max_processes: 5
           }
         }
       },
@@ -574,7 +567,7 @@ module.exports = function(grunt) {
         'concat:css',
         'concat:cssPrint',
         'cssmin',
-        'closurecompiler',
+        'uglify',
         'nunjucks:deploy',
         'copy:deploy',
         'autoprefixer:deploy',

@@ -7,7 +7,7 @@
     "grunt": "*",
     "grunt-autoprefixer": "*",
     "grunt-cli": "*",
-    "grunt-closurecompiler": "*",
+    "grunt-contrib-uglify": "*",
     "grunt-contrib-clean": "*",
     "grunt-contrib-concat": "*",
     "grunt-contrib-connect": "*",
