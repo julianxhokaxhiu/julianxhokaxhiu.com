@@ -1,4 +1,4 @@
-{% spaceless %}
+{% spaceless safe=true %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,8 +18,6 @@
   {% for href in app.cssFiles.print %}
     <link href="{{ href }}" rel="stylesheet" media="print">
   {% endfor %}
-  {% block styles %}
-  {% endblock %}
 </head>
 <body>
   <script>
@@ -70,9 +68,6 @@
       </div>
     </div>
   </div>
-  <!-- Scripts -->
-  {% block scripts %}
-  {% endblock %}
   <!--[if (!IE)|(gt IE 8)]><!-->
     <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
   <!--<![endif]-->
