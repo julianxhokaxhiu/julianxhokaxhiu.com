@@ -359,7 +359,17 @@
                 <ul class="list-unstyled">
                   <li><span><a href="https://www.gnu.org/software/bash/">Bash</a></span></li>
                   <li><span><a href="https://github.com/systemd/systemd">systemd</a></span></li>
-                  <li class="jx-wip"><span><a href="https://cmake.org/">CMake</a></span></li>
+                  <li><span><a href="https://cmake.org/">CMake</a></span></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>Computer Graphics</h3>
+                <ul class="list-unstyled">
+                  <li><span><a href="https://www.opengl.org/">OpenGL</a></span></li>
+                  <li class="jx-wip"><span><a href="https://www.khronos.org/vulkan/">Vulkan</a></span></li>
+                  <li class="jx-wip"><span><a href="https://docs.microsoft.com/en-us/windows/win32/directx">DirectX</a></span></li>
                 </ul>
               </div>
             </div>
