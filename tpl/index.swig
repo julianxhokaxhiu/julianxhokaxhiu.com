@@ -370,6 +370,20 @@
                   <li><span><a href="https://www.opengl.org/">OpenGL</a></span></li>
                   <li class="jx-wip"><span><a href="https://www.khronos.org/vulkan/">Vulkan</a></span></li>
                   <li class="jx-wip"><span><a href="https://docs.microsoft.com/en-us/windows/win32/directx">DirectX</a></span></li>
+                  <li><span><a href="https://renderdoc.org/">RenderDoc</a></span></li>
+                  <li><span><a href="http://apitrace.github.io/">apitrace</a></span></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="jx-panel">
+                <h3>Reverse Engineering</h3>
+                <ul class="list-unstyled">
+                  <li class="jx-wip"><span><a href="https://en.wikipedia.org/wiki/Portable_Executable">Win32 PE x86/x86_64</a></span></li>
+                  <li class="jx-wip"><span><a href="https://www.hex-rays.com/products/ida/support/download_freeware/">IDA 7.x</a></span></li>
+                  <li class="jx-wip"><span><a href="https://cutter.re/">Cutter/radare2</a></span></li>
+                  <li class="jx-wip"><span><a href="https://x64dbg.com/">x64dbg</a></span></li>
+                  <li><span><a href="https://docs.microsoft.com/en-us/sysinternals/downloads/procmon">Process Monitor</a></span></li>
                 </ul>
               </div>
             </div>
