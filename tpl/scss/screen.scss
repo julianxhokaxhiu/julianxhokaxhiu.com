@@ -3,7 +3,9 @@
 @import "_settings";
 @import "_colors";
 @import "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap";
-@import "bower_components/fontawesome/scss/font-awesome";
+@import "bower_components/fontawesome/scss/fontawesome";
+@import "bower_components/fontawesome/scss/regular";
+@import "bower_components/fontawesome/scss/brands";
 @import "bower_components/ionicons/scss/ionicons";
 @import "_helpers";
 @import "_overrides";
@@ -93,7 +95,7 @@ hr.jx-no-border {
       }
     }
   }
-  i.fa + span {
+  i.fab + span {
     padding-left: 5px;
   }
 }

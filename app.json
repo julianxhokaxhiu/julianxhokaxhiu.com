@@ -21,7 +21,7 @@
 	},
 	"assets" : {
 		"fonts" : [
-			"bower_components/fontawesome/fonts/*",
+			"bower_components/fontawesome/webfonts/*",
 			"bower_components/ionicons/fonts/*",
 			"bower_components/bootstrap-sass-official/assets/fonts/bootstrap/*"
 		],

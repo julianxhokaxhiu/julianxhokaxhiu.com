@@ -15,22 +15,22 @@
                 <hr>
                 <ul class="nav nav-justified">
                   <li>
-                    <a href="https://www.facebook.com/julian.xhokaxhiu" title="Facebook" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-facebook fa-2x"></i></a>
+                    <a href="https://www.facebook.com/julian.xhokaxhiu" title="Facebook" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-facebook fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="https://twitter.com/JulianXhokaxhiu" title="Twitter" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-twitter fa-2x"></i></a>
+                    <a href="https://twitter.com/JulianXhokaxhiu" title="Twitter" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-twitter fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/in/julianxhokaxhiu" title="Linkedin" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-linkedin fa-2x"></i></a>
+                    <a href="https://www.linkedin.com/in/julianxhokaxhiu" title="Linkedin" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-linkedin fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="https://www.xing.com/profile/Julian_Xhokaxhiu" title="Xing" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-xing fa-2x"></i></a>
+                    <a href="https://www.xing.com/profile/Julian_Xhokaxhiu" title="Xing" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-xing fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="https://github.com/julianxhokaxhiu" title="GitHub" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-github fa-2x"></i></a>
+                    <a href="https://github.com/julianxhokaxhiu" title="GitHub" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-github fa-2x"></i></a>
                   </li>
                   <li>
-                    <a href="https://stackoverflow.com/story/julianxhokaxhiu" title="Stackoverflow Careers" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-signal fa-2x"></i></a>
+                    <a href="https://stackoverflow.com/story/julianxhokaxhiu" title="Stackoverflow Careers" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-stack-overflow fa-2x"></i></a>
                   </li>
                 </ul>
               </div>
@@ -121,13 +121,13 @@
           <ul class="list-inline">
             <li>
               <a href="https://www.facebook.com/julian.xhokaxhiu">
-                <i class="fa fa-facebook"></i>
+                <i class="fab fa-facebook"></i>
                 <span>Facebook</span>
               </a>
             </li>
             <li>
               <a href="https://twitter.com/JulianXhokaxhiu">
-                <i class="fa fa-twitter"></i>
+                <i class="fab fa-twitter"></i>
                 <span>Twitter</span>
               </a>
             </li>
@@ -229,13 +229,13 @@
               <ul class="list-inline">
                 <li>
                   <a href="https://www.linkedin.com/in/julianxhokaxhiu">
-                    <i class="fa fa-linkedin"></i>
+                    <i class="fab fa-linkedin"></i>
                     <span>Linkedin</span>
                   </a>
                 </li>
                 <li>
                   <a href="https://www.xing.com/profile/Julian_Xhokaxhiu">
-                    <i class="fa fa-xing"></i>
+                    <i class="fab fa-xing"></i>
                     <span>Xing</span>
                   </a>
                 </li>
