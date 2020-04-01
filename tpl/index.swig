@@ -32,6 +32,9 @@
                   <li>
                     <a href="https://stackoverflow.com/story/julianxhokaxhiu" title="Stackoverflow Careers" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-stack-overflow fa-2x"></i></a>
                   </li>
+                  <li>
+                    <a href="https://keybase.io/julianxhokaxhiu" title="Keybase" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-keybase fa-2x"></i></a>
+                  </li>
                 </ul>
               </div>
             </div>
