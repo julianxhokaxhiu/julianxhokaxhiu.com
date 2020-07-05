@@ -341,7 +341,7 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3">
               <div class="jx-panel">
-                <h3>CICD</h3>
+                <h3>CI/CD</h3>
                 <ul class="list-unstyled">
                   <li><span><a href="https://jenkins.io/">Jenkins</a></span></li>
                   <li><span><a href="https://travis-ci.org/">Travis CI</a></span></li>
@@ -350,6 +350,7 @@
                   <li><span><a href="https://concourse-ci.org/">Concourse CI</a></span></li>
                   <li><span><a href="https://appveyor.com/">AppVeyor</a></span></li>
                   <li><span><a href="https://confluence.atlassian.com/bamboo/bamboo-specs-894743906.html">Bamboo YAML Specs</a></span></li>
+                  <li><span><a href="https://azure.microsoft.com/en-us/services/devops/pipelines/">Azure Pipelines</a></span></li>
                 </ul>
               </div>
             </div>
