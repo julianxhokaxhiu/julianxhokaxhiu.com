@@ -37,7 +37,8 @@
     // Activate Scrollspy
     $body
     .scrollspy({
-      'target' : '#jx-scrollspy-target'
+      'target' : '#jx-scrollspy-target',
+      'offset': $('.navbar.fixed-top').outerHeight()
     });
 
     // Sidenav affixing
@@ -53,12 +54,12 @@
 
        // animate
        $('html, body').animate({
-           scrollTop: $(hash).offset().top
+           scrollTop: $(hash).offset().top - $('.navbar.fixed-top').outerHeight()
          }, 300, function(){
 
            // when done, add hash to url
            // (default click behaviour)
-           window.location.hash = hash;
+           history.replaceState({}, '', hash);
          });
 
     });
@@ -66,7 +67,7 @@
     // Rewrite history everytime scrollspy detect a change
     $window
     .on('activate.bs.scrollspy', function (e) {
-      history.replaceState( {}, '', $( 'a[href^="#"]', e.target ).attr("href") );
+      history.replaceState({}, '', $('#jx-scrollspy-target .nav-link.active').attr("href"));
     });
 
     // Set current year
