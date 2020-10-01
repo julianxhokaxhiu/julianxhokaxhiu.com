@@ -1,9 +1,7 @@
 (function($, viewport){
   $(function(){
     var $window = $(window),
-        $html = $('html'),
         $body = $('body'),
-        $sections = $('.jx-section');
         $sideBar = $('.jx-sidebar'),
         $portfolioLinks = $('.jx-portfolio a');
 
@@ -44,13 +42,6 @@
 
     // Sidenav affixing
     $sideBar
-    .affix({
-      offset: {
-        top: function () {
-          return $sideBar.offset().top
-        }
-      }
-    })
     .find( 'ul li a[href^="#"]' )
     .on( 'click', function (e){
        // prevent default anchor click behavior

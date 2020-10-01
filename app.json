@@ -13,28 +13,21 @@
 		"deploy" : {
 			"path" : "/var/www",
 			"host" : "localhost"
-		},
-		"typo3" : {
-			"path" : "_typo3ext",
-			"suffix" : "_core"
 		}
 	},
 	"assets" : {
 		"fonts" : [
-			"bower_components/fontawesome/webfonts/*",
-			"bower_components/ionicons/fonts/*",
-			"bower_components/bootstrap-sass-official/assets/fonts/bootstrap/*"
+			"node_modules/@fortawesome/fontawesome-free/webfonts/*"
 		],
 		"js" : [
-			"bower_components/modernizr/modernizr.js",
-			"bower_components/detectizr/dist/detectizr.js",
-			"bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js",
-      "bower_components/responsive-toolkit/dist/bootstrap-toolkit.js",
-      "bower_components/scrollreveal/dist/scrollreveal.js",
+			"node_modules/modernizr/modernizr.js",
+			"node_modules/detectizr/dist/detectizr.js",
+			"node_modules/@popperjs/core/dist/umd/popper.js",
+			"node_modules/bootstrap/dist/js/bootstrap.js",
+      "node_modules/responsive-toolkit/dist/bootstrap-toolkit.js",
+      "node_modules/scrollreveal/dist/scrollreveal.js",
 			"tpl/js/*.js"
 		]
 	},
-	"data" : {
-		"foo" : "bar"
-	}
+	"data" : {}
 }

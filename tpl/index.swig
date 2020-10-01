@@ -3,39 +3,39 @@
 <div class="jx-section-wrapper">
   <div id="welcome" class="jx-section jx-welcome">
     <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="row">
-            <div class="col-xs-12 col-sm-5 col-md-4">
+      <div class="row align-items-center">
+        <div class="col">
+          <div class="row align-items-center">
+            <div class="col-xs-12 col-sm-6 col-md-5">
               <a href="https://about.me/julianxhokaxhiu">
-                <img class="img-responsive img-circle" src="img/me_24bit.png" alt="Julian Xhokaxhiu">
+                <img class="img-fluid rounded-circle" src="img/me_24bit.png" alt="Julian Xhokaxhiu">
               </a>
               <div class="text-center">
                 <em>"Impossible Is Nothing"</em>
                 <hr>
-                <ul class="nav nav-justified">
-                  <li>
+                <ul class="nav nav-justified justify-content-center">
+                  <li class="nav-item">
                     <a href="https://www.facebook.com/julian.xhokaxhiu" title="Facebook" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-facebook fa-2x"></i></a>
                   </li>
-                  <li>
+                  <li class="nav-item">
                     <a href="https://twitter.com/JulianXhokaxhiu" title="Twitter" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-twitter fa-2x"></i></a>
                   </li>
-                  <li>
+                  <li class="nav-item">
                     <a href="https://www.linkedin.com/in/julianxhokaxhiu" title="Linkedin" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-linkedin fa-2x"></i></a>
                   </li>
-                  <li>
+                  <li class="nav-item">
                     <a href="https://www.xing.com/profile/Julian_Xhokaxhiu" title="Xing" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-xing fa-2x"></i></a>
                   </li>
-                  <li>
+                  <li class="nav-item">
                     <a href="https://github.com/julianxhokaxhiu" title="GitHub" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-github fa-2x"></i></a>
                   </li>
-                  <li>
+                  <li class="nav-item">
                     <a href="https://stackoverflow.com/story/julianxhokaxhiu" title="Stackoverflow Careers" data-toggle="tooltip" data-placement="bottom"><i class="fab fa-stack-overflow fa-2x"></i></a>
                   </li>
                 </ul>
               </div>
             </div>
-            <div class="col-xs-12 col-sm-7 col-md-8">
+            <div class="col-xs-12 col-sm-6 col-md-7">
               <dl>
                 <dt>My name is</dt>
                 <dd><h1>Julian Xhokaxhiu</h1></dd>
@@ -66,6 +66,7 @@
         <div class="col-xs-6 col-sm-3 col-md-2">
           <h3>The Kick-starter</h3>
         </div>
+        <div class="w-100"></div>
         <div class="col-xs-12">
           <p>Give me a mission, give me a vision and I will take up the rest.</p>
           <p>If I have to work solo on a topic I am not afraid, as long as this will contribute to be a global benefit.<br>For the organization itself, for the colleagues or for the outside world.</p>
@@ -77,6 +78,7 @@
         <div class="col-xs-6 col-sm-3 col-md-2">
           <h3>The Forger</h3>
         </div>
+        <div class="w-100"></div>
         <div class="col-xs-12">
           <p>I like to come up with new solutions when I see "a missing block". Most of the time I do this in my spare time ( after-work or on the weekend ).</p>
           <p>Although I much rather prefer to invest this time at my Job. Because I believe working with someone is helping each other. The help is not only a one side communication channel.</p>
@@ -87,6 +89,7 @@
         <div class="col-xs-6 col-sm-3 col-md-2">
           <h3>The Debugger</h3>
         </div>
+        <div class="w-100"></div>
         <div class="col-xs-12">
           <p>Debugging is usually a task no one really prefers. This one is not me. I actually enjoy it.</p>
           <p>Why? Because I believe that debugging is a learning process, a way to understand the limits of any topic that is related to the task.<br>Let it be an area of focus, a technical tool, a knowledge area, whatever.</p>
@@ -97,6 +100,7 @@
         <div class="col-xs-6 col-sm-3 col-md-2">
           <h3>The Team-player</h3>
         </div>
+        <div class="w-100"></div>
         <div class="col-xs-12">
           <p>Working solo is not a problem for me, although working in a team makes my job more enjoyable. This is why I always prefer working in a team, rather than alone.</p>
           <p>I don't mind differences of any kind, let it be culture, technological based or whatever. As long as we push on the same direction, I will be there.</p>
@@ -108,6 +112,7 @@
         <div class="col-xs-6 col-sm-3 col-md-2">
           <h3>The Open mind</h3>
         </div>
+        <div class="w-100"></div>
         <div class="col-xs-12">
           <p>Working with different set of technologies, makes you realize nothing is perfect. Instead you prefer to focus on what does solve your immediate problems.</p>
           <p>This is why I do personally not focus on a specific tool, but instead I focus on which requirement is being covered and how.</p>
@@ -119,13 +124,13 @@
         <div class="col-md-12 text-center">
           <p>Curious to know more about me? Feel free to get in touch using any of the social profiles.</p>
           <ul class="list-inline">
-            <li>
+            <li class="list-inline-item">
               <a href="https://www.facebook.com/julian.xhokaxhiu">
                 <i class="fab fa-facebook"></i>
                 <span>Facebook</span>
               </a>
             </li>
-            <li>
+            <li class="list-inline-item">
               <a href="https://twitter.com/JulianXhokaxhiu">
                 <i class="fab fa-twitter"></i>
                 <span>Twitter</span>
@@ -145,7 +150,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://www.aicod.it">
-                  <span><img class="img-responsive" src="img/work-experience/aicod.png" alt=""></span>
+                  <span><img class="img-fluid" src="img/work-experience/aicod.png" alt=""></span>
                   <h3>Aicod Srl</h3>
                 </a>
                 <h4>Web Developer and Designer</h4>
@@ -156,7 +161,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://web.spaggiari.eu">
-                  <span><img class="img-responsive" src="img/work-experience/spaggiari.jpg" alt=""></span>
+                  <span><img class="img-fluid" src="img/work-experience/spaggiari.jpg" alt=""></span>
                   <h3>Casa Editrice Spaggiari S.p.A.</h3>
                 </a>
                 <h4>IT Analyst,<br>Web Designer And Developer</h4>
@@ -167,7 +172,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://cron.eu">
-                  <span><img class="img-responsive" src="img/work-experience/cron.png" alt=""></span>
+                  <span><img class="img-fluid" src="img/work-experience/cron.png" alt=""></span>
                   <h3>cron IT GmbH</h3>
                 </a>
                 <h4>Agile Senior Frontend Developer</h4>
@@ -178,7 +183,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://aexea.de">
-                  <span><img class="img-responsive" src="img/work-experience/aexea.png" alt=""></span>
+                  <span><img class="img-fluid" src="img/work-experience/aexea.png" alt=""></span>
                   <h3>aexea GmbH<br>communication. content. consulting</h3>
                 </a>
                 <h4>Agile Senior FrontEnd Developer</h4>
@@ -189,7 +194,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://www.schommer-media.de">
-                  <span><img class="img-responsive" src="img/work-experience/schommer-media.png" alt=""></span>
+                  <span><img class="img-fluid" src="img/work-experience/schommer-media.png" alt=""></span>
                   <h3>Schommer Media GmbH<br>TYPO3 Internetagentur Stuttgart</h3>
                 </a>
                 <h4>Agile Senior Frontend Developer<br>Team Leader of the Frontend Area</h4>
@@ -200,7 +205,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://mercedes-benz.io/">
-                  <span><img class="img-responsive" src="img/work-experience/mbio.png" alt=""></span>
+                  <span><img class="img-fluid" src="img/work-experience/mbio.png" alt=""></span>
                   <h3>Mercedes-Benz.io GmbH</h3>
                 </a>
                 <h4>Senior Software/Cloud Engineer</h4>
@@ -211,7 +216,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://www.netcentric.biz/">
-                  <span><img class="img-responsive" src="img/work-experience/nc.png" alt=""></span>
+                  <span><img class="img-fluid" src="img/work-experience/nc.png" alt=""></span>
                   <h3>Netcentric, A Cognizant Digital Business</h3>
                 </a>
                 <h4>Senior System/DevOps/Cloud Operations Engineer</h4>
@@ -227,13 +232,13 @@
                 But wait...there's more! You can visit my two job profiles on these two networks:
               </p>
               <ul class="list-inline">
-                <li>
+                <li class="list-inline-item">
                   <a href="https://www.linkedin.com/in/julianxhokaxhiu">
                     <i class="fab fa-linkedin"></i>
                     <span>Linkedin</span>
                   </a>
                 </li>
-                <li>
+                <li class="list-inline-item">
                   <a href="https://www.xing.com/profile/Julian_Xhokaxhiu">
                     <i class="fab fa-xing"></i>
                     <span>Xing</span>
@@ -394,9 +399,9 @@
           <div class="row">
             <div class="col-md-12">
               <ul class="list-inline">
-                <li>Fully understood, and ready for the future</li>
-                <li class="jx-wip">Studying, but ready to achive goals</li>
-                <li class="jx-hold">Studied, and not interested to continue further</li>
+                <li class="list-inline-item">Fully understood, and ready for the future</li>
+                <li class="list-inline-item jx-wip">Studying, but ready to achive goals</li>
+                <li class="list-inline-item jx-hold">Studied, and not interested to continue further</li>
               </ul>
             </div>
           </div>
@@ -419,26 +424,26 @@
           <div class="row">
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Pagani">
-                <img class="img-responsive" src="img/portfolio/pagani.jpg" alt="Pagani">
+                <img class="img-fluid" src="img/portfolio/pagani.jpg" alt="Pagani">
                 <span>Pagani</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Pagani</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://www.pagani.com/">
-                        <img class="img-responsive" src="img/portfolio/pagani.jpg" alt="Pagani">
+                        <img class="img-fluid" src="img/portfolio/pagani.jpg" alt="Pagani">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://www.pagani.com/">www.pagani.com</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
@@ -489,26 +494,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Parmigiano Reggiano">
-                <img class="img-responsive" src="img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
+                <img class="img-fluid" src="img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
                 <span>Parmigiano Reggiano</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Parmigiano Reggiano</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://www.parmigianoreggiano.com/">
-                        <img class="img-responsive" src="img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
+                        <img class="img-fluid" src="img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://www.parmigianoreggiano.com/">www.parmigianoreggiano.com</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
@@ -559,26 +564,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Maserati Ghibli">
-                <img class="img-responsive" src="img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
+                <img class="img-fluid" src="img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
                 <span>Maserati Ghibli</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Maserati Ghibli</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://www.ghibli.maserati.com/">
-                        <img class="img-responsive" src="img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
+                        <img class="img-fluid" src="img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://www.ghibli.maserati.com/">www.ghibli.maserati.com</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
@@ -630,26 +635,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="CFT Group">
-                <img class="img-responsive" src="img/portfolio/cft-group.jpg" alt="CFT Group">
+                <img class="img-fluid" src="img/portfolio/cft-group.jpg" alt="CFT Group">
                 <span>CFT Group</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">CFT Group</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://www.cft-group.com/">
-                        <img class="img-responsive" src="img/portfolio/cft-group.jpg" alt="CFT Group">
+                        <img class="img-fluid" src="img/portfolio/cft-group.jpg" alt="CFT Group">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://www.cft-group.com/">www.cft-group.com</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
@@ -704,26 +709,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Turismo Reggio Emilia">
-                <img class="img-responsive" src="img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
+                <img class="img-fluid" src="img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
                 <span>Turismo Reggio Emilia</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Turismo Reggio Emilia</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://reggioemiliaturismo.provincia.re.it/page.asp?IDCategoria=2949&amp;IDSezione=19387&amp;Speciale=MappaTerritoriale">
-                        <img class="img-responsive" src="img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
+                        <img class="img-fluid" src="img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://reggioemiliaturismo.provincia.re.it/page.asp?IDCategoria=2949&amp;IDSezione=19387&amp;Speciale=MappaTerritoriale">reggioemiliaturismo.provincia.re.it</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
@@ -777,26 +782,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Acerni">
-                <img class="img-responsive" src="img/portfolio/acerni.jpg" alt="Acerni">
+                <img class="img-fluid" src="img/portfolio/acerni.jpg" alt="Acerni">
                 <span>Acerni</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Acerni</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://www.acerni.it/en/">
-                        <img class="img-responsive" src="img/portfolio/acerni.jpg" alt="Acerni">
+                        <img class="img-fluid" src="img/portfolio/acerni.jpg" alt="Acerni">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://www.acerni.it/en/">www.acerni.it/en/</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <a href="https://www.aicod.com/" title="Aicod Digital Communication Agency">Aicod</a>
                         </div>
@@ -844,26 +849,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="DHBW Stuttgart">
-                <img class="img-responsive" src="img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
+                <img class="img-fluid" src="img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
                 <span>DHBW Stuttgart</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">DHBW Stuttgart</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://www.dhbw-stuttgart.de/">
-                        <img class="img-responsive" src="img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
+                        <img class="img-fluid" src="img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://www.dhbw-stuttgart.de/">www.dhbw-stuttgart.de</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <a href="https://www.cron.eu/" title="cron :: Web Agentur TYPO3 in Stuttgart, TYPO3-Hosting in Frankfurt, cron IT GmbH">cron IT GmbH</a>
                         </div>
@@ -919,26 +924,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Messe Stuttgart">
-                <img class="img-responsive" src="img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
+                <img class="img-fluid" src="img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
                 <span>Messe Stuttgart</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Messe Stuttgart</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://www.messe-stuttgart.de/en/">
-                        <img class="img-responsive" src="img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
+                        <img class="img-fluid" src="img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://www.messe-stuttgart.de/en/">www.messe-stuttgart.de/en/</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <a href="https://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
                         </div>
@@ -997,26 +1002,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="4P Consulting">
-                <img class="img-responsive" src="img/portfolio/4pconsulting.jpg" alt="4P Consulting">
+                <img class="img-fluid" src="img/portfolio/4pconsulting.jpg" alt="4P Consulting">
                 <span>4P Consulting</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">4P Consulting</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://www.4p-consulting.de/">
-                        <img class="img-responsive" src="img/portfolio/4pconsulting.jpg" alt="4P Consulting">
+                        <img class="img-fluid" src="img/portfolio/4pconsulting.jpg" alt="4P Consulting">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://www.4p-consulting.de/">www.4p-consulting.de</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <a href="https://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
                         </div>
@@ -1074,26 +1079,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Polytechnische Gesellschaft">
-                <img class="img-responsive" src="img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
+                <img class="img-fluid" src="img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
                 <span>Polytechnische Gesellschaft</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Polytechnische Gesellschaft</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://www.polytechnische.de/">
-                        <img class="img-responsive" src="img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
+                        <img class="img-fluid" src="img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://www.polytechnische.de/">www.polytechnische.de</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <a href="https://www.schommer-media.de/" title="Schommer Media GmbH - TYPO3 Internetagentur Stuttgart">Schommer Media GmbH</a>
                         </div>
@@ -1156,26 +1161,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Dolci Delizie">
-                <img class="img-responsive" src="img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
+                <img class="img-fluid" src="img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
                 <span>Dolci Delizie</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Dolci Delizie</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://dolci-delizie.de/">
-                        <img class="img-responsive" src="img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
+                        <img class="img-fluid" src="img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://dolci-delizie.de/">dolci-delizie.de</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <abbr title="Fotoricordi Giuseppe Acri und Julian Xhokaxhiu Web Development GbR">AundX GbR</abbr>
                         </div>
@@ -1231,26 +1236,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Mercedes-Benz">
-                <img class="img-responsive" src="img/portfolio/mercedesbenz.jpg" alt="Mercedes-Benz">
+                <img class="img-fluid" src="img/portfolio/mercedesbenz.jpg" alt="Mercedes-Benz">
                 <span>Mercedes-Benz</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Mercedes-Benz</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://mercedes-benz.com/">
-                        <img class="img-responsive" src="img/portfolio/mercedesbenz.jpg" alt="Mercedes-Benz">
+                        <img class="img-fluid" src="img/portfolio/mercedesbenz.jpg" alt="Mercedes-Benz">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://mercedes-benz.com/">mercedes-benz.com</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Made in:</label>
                           <abbr title="Mercedes-Benz.io GmbH">Mercedes-Benz.io</abbr>
                         </div>
@@ -1314,19 +1319,19 @@
           <div class="row">
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="NWM">
-                <img class="img-responsive" src="img/portfolio/nwm.jpg" alt="NWM">
+                <img class="img-fluid" src="img/portfolio/nwm.jpg" alt="NWM">
                 <span>NWM</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">&ldquo;NodeJS (for) Windows (with) MongoDB&rdquo;</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://nwm.julianxhokaxhiu.com">
-                        <img class="img-responsive" src="img/portfolio/nwm.jpg" alt="NWM">
+                        <img class="img-fluid" src="img/portfolio/nwm.jpg" alt="NWM">
                       </a>
                       <hr>
                       <p>
@@ -1355,22 +1360,22 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Linux DaVinci">
-                <img class="img-responsive" src="img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
+                <img class="img-fluid" src="img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
                 <span>Linux DaVinci</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Linux DaVinci</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://linuxdavinci.julianxhokaxhiu.com">
-                        <img class="img-responsive" src="img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
+                        <img class="img-fluid" src="img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://linuxdavinci.julianxhokaxhiu.com">linuxdavinci.julianxhokaxhiu.com</a>
                         </div>
@@ -1405,22 +1410,22 @@
           <div class="row">
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="GitHub">
-                <img class="img-responsive" src="img/portfolio/github.jpg" alt="GitHub">
+                <img class="img-fluid" src="img/portfolio/github.jpg" alt="GitHub">
                 <span>GitHub</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">GitHub</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://github.com/julianxhokaxhiu">
-                        <img class="img-responsive" src="img/portfolio/github.jpg" alt="GitHub">
+                        <img class="img-fluid" src="img/portfolio/github.jpg" alt="GitHub">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12">
+                        <div class="col">
                           <label>Website:</label>
                           <a href="https://github.com/julianxhokaxhiu">github.com/julianxhokaxhiu</a>
                         </div>
@@ -1439,26 +1444,26 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Web Developer Italiani">
-                <img class="img-responsive" src="img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
+                <img class="img-fluid" src="img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
                 <span>Web Developer Italiani</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Web Developer Italiani</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
                       <a href="https://www.facebook.com/groups/webdeveloperitaliani/">
-                        <img class="img-responsive" src="img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
+                        <img class="img-fluid" src="img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
                       </a>
                       <div class="row">
-                        <div class="col-xs-12 col-sm-6">
+                        <div class="col">
                           <label>Website:</label>
-                          <a href="https://www.facebook.com/groups/webdeveloperitaliani/"><i class="ion-social-facebook"></i> / webdeveloperitaliani</a>
+                          <a href="https://www.facebook.com/groups/webdeveloperitaliani/"><i class="fab fa-facebook-square"></i> / webdeveloperitaliani</a>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Role:</label>
                           <span>Admin / Co-Founder</span>
                         </div>
@@ -1480,20 +1485,20 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Italian Developers">
-                <img class="img-responsive" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
+                <img class="img-fluid" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
                 <span>Italian Developers</span>
               </a>
               <div class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                       <h4 class="modal-title">Italian Developers</h4>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
-                      <img class="img-responsive" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
+                      <img class="img-fluid" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
                       <div class="row">
-                        <div class="col-xs-12 text-right-not-xs">
+                        <div class="col text-right-not-xs">
                           <label>Role:</label>
                           <span>Moderator / Co-Founder</span>
                         </div>

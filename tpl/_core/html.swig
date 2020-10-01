@@ -20,40 +20,35 @@
   {% endfor %}
 </head>
 <body>
-  <nav class="navbar navbar-toolbar navbar-default navbar-fixed-top">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".jx-projects-toolbar">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a href="//julianxhokaxhiu.com" class="navbar-brand">Julian Xhokaxhiu's Portfolio</a>
-    </div>
+  <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top">
+    <a href="//julianxhokaxhiu.com" class="navbar-brand">Julian Xhokaxhiu's Portfolio</a>
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".jx-projects-toolbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
     <div class="collapse navbar-collapse jx-projects-toolbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="//julianxhokaxhiu.com/">Home</a></li>
-        <li><a href="//blog.julianxhokaxhiu.com/">Blog</a></li>
-        <li><a href="//linuxdavinci.julianxhokaxhiu.com/">LinuxDaVinci</a></li>
-        <li><a href="//ipops.julianxhokaxhiu.com/">iPoPS</a></li>
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item"><a class="nav-link active" href="//julianxhokaxhiu.com/">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="//blog.julianxhokaxhiu.com/">Blog</a></li>
+        <li class="nav-item"><a class="nav-link" href="//linuxdavinci.julianxhokaxhiu.com/">LinuxDaVinci</a></li>
+        <li class="nav-item"><a class="nav-link" href="//ipops.julianxhokaxhiu.com/">iPoPS</a></li>
       </ul>
     </div>
   </nav>
-  <div id="jx-scrollspy-target" class="jx-sidebar hidden-print hidden-xs hidden-sm">
+  <nav id="jx-scrollspy-target" class="jx-sidebar d-print-none d-none d-md-block">
     <ul class="nav">
-      <li class="active"><a href="#welcome"><span>Welcome</span></a></li>
-      <li><a href="#aboutme"><span>About me</span></a></li>
-      <li><a href="#work-experience"><span>Work Experience</span></a></li>
-      <li><a href="#skills"><span>Skills</span></a></li>
-      <li><a href="#portfolio"><span>Portfolio</span></a></li>
+      <li class="nav-item"><a class="nav-link active" href="#welcome"><span>Welcome</span></a></li>
+      <li class="nav-item"><a class="nav-link" href="#aboutme"><span>About me</span></a></li>
+      <li class="nav-item"><a class="nav-link" href="#work-experience"><span>Work Experience</span></a></li>
+      <li class="nav-item"><a class="nav-link" href="#skills"><span>Skills</span></a></li>
+      <li class="nav-item"><a class="nav-link" href="#portfolio"><span>Portfolio</span></a></li>
     </ul>
-  </div>
+  </nav>
   {% block content %}
   {% endblock %}
   <div class="jx-footer">
     <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-12 text-center">
+      <div class="row justify-content-center">
+        <div class="col text-center">
           <p><small>Any screenshot taken from the relative website represent the status of it in a specific time. So, it should not be considered a Copyright infringement, but it is there just for rapid quick-look and better understanding of the relative project sheet.</small></p>
           <p>Julian Xhokaxhiu, <span id="credits-year">2016</span></p>
         </div>

@@ -24,7 +24,7 @@
   text-align: justify;
 }
 
-@media (max-width: $screen-xs-max) {
+@include media-breakpoint-down(xs) {
   .text-left-not-xs,
   .text-center-not-xs,
   .text-right-not-xs,
@@ -44,7 +44,7 @@
     text-align: justify;
   }
 }
-@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+@include media-breakpoint-only(sm) {
   .text-left-not-sm,
   .text-center-not-sm,
   .text-right-not-sm,
@@ -64,7 +64,7 @@
     text-align: justify;
   }
 }
-@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+@include media-breakpoint-only(md) {
   .text-left-not-md,
   .text-center-not-md,
   .text-right-not-md,
@@ -84,7 +84,7 @@
     text-align: justify;
   }
 }
-@media (min-width: $screen-lg-min) {
+@include media-breakpoint-up(lg) {
   .text-left-not-lg,
   .text-center-not-lg,
   .text-right-not-lg,
@@ -106,46 +106,35 @@
 }
 
 // Pull Left Responsive Helper
-@media (min-width: $screen-sm-min) {
+@include media-breakpoint-up(sm) {
   .pull-left-sm {
     float: left;
   }
 }
-@media (min-width: $screen-md-min) {
+@include media-breakpoint-up(md) {
   .pull-left-md {
     float: left;
   }
 }
-@media (min-width: $screen-lg-min) {
+@include media-breakpoint-up(lg) {
   .pull-left-lg {
     float: left;
   }
 }
 
 // Pull Right Responsive Helper
-@media (min-width: $screen-sm-min) {
+@include media-breakpoint-up(sm) {
   .pull-right-sm {
     float: right;
   }
 }
-@media (min-width: $screen-md-min) {
+@include media-breakpoint-up(md) {
   .pull-right-md {
     float: right;
   }
 }
-@media (min-width: $screen-lg-min) {
+@include media-breakpoint-up(lg) {
   .pull-right-lg {
     float: right;
   }
-}
-
-// IonIcons helper
-@mixin ion-icon() {
-  display: inline-block;
-  font: normal normal normal #{$fa-font-size-base}/1 $ionicons-font-family; // shortening font declaration
-  font-size: inherit; // can't have font-size inherit on line above, so need to override
-  text-rendering: auto; // optimizelegibility throws things off #1094
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  transform: translate(0, 0); // ensures no half-pixel rendering in firefox
 }
