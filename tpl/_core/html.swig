@@ -20,7 +20,7 @@
   {% endfor %}
 </head>
 <body>
-  <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top">
     <a href="//julianxhokaxhiu.com" class="navbar-brand">Julian Xhokaxhiu's Portfolio</a>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".jx-projects-toolbar">
       <span class="navbar-toggler-icon"></span>
