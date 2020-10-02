@@ -7,9 +7,7 @@
         <div class="col">
           <div class="row align-items-center">
             <div class="col-xs-12 col-sm-6 col-md-5">
-              <a href="https://about.me/julianxhokaxhiu">
-                <img class="img-fluid rounded-circle" src="img/me_24bit.png" alt="Julian Xhokaxhiu">
-              </a>
+              <img class="img-fluid rounded-circle" src="img/me_24bit.png" alt="Julian Xhokaxhiu">
               <div class="text-center">
                 <em>"Impossible Is Nothing"</em>
                 <hr>
