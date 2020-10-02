@@ -22,7 +22,7 @@
 		"js" : [
 			"node_modules/modernizr/modernizr.js",
 			"node_modules/detectizr/dist/detectizr.js",
-			"node_modules/@popperjs/core/dist/umd/popper.js",
+			"node_modules/popper.js/dist/umd/popper.js",
 			"node_modules/bootstrap/dist/js/bootstrap.js",
       "node_modules/responsive-toolkit/dist/bootstrap-toolkit.js",
       "node_modules/scrollreveal/dist/scrollreveal.js",
