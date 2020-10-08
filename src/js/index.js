@@ -1,3 +1,12 @@
+const jquery = require('jquery');
+$ = window.$ = window.jQuery = jquery;
+
+require('popper.js');
+require('bootstrap');
+const responsiveToolkit = require('responsive-toolkit');
+window.ResponsiveBootstrapToolkit = responsiveToolkit;
+require('scrollreveal');
+
 (function($, viewport){
   $(function(){
     var $window = $(window),

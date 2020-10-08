@@ -2,7 +2,5 @@
 $border-radius-base: 0;
 $border-radius-small: $border-radius-base;
 $border-radius-large: $border-radius-base;
-// Bootstrap Icons Path
-$icon-font-path: '../fonts/';
 // Fontawesome fonts path
-$fa-font-path: '../fonts';
+$fa-font-path: '../../node_modules/@fortawesome/fontawesome-free/webfonts/';

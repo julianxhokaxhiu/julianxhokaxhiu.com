@@ -1,4 +1,4 @@
-{% extends '_core/html.swig' %}
+{% extends '_core/core.njk' %}
 {% block content %}
 <div class="jx-section-wrapper">
   <div id="welcome" class="jx-section jx-welcome">
@@ -7,7 +7,7 @@
         <div class="col">
           <div class="row align-items-center">
             <div class="col-xs-12 col-sm-6 col-md-5">
-              <img class="img-fluid rounded-circle" src="img/me_24bit.png" alt="Julian Xhokaxhiu">
+              <img class="img-fluid rounded-circle" src="{{ app.assetPath }}/img/me_24bit.png" alt="Julian Xhokaxhiu">
               <div class="text-center">
                 <em>"Impossible Is Nothing"</em>
                 <hr>
@@ -148,7 +148,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://www.aicod.it">
-                  <span><img class="img-fluid" src="img/work-experience/aicod.png" alt=""></span>
+                  <span><img class="img-fluid" src="{{ app.assetPath }}/img/work-experience/aicod.png" alt=""></span>
                   <h3>Aicod Srl</h3>
                 </a>
                 <h4>Web Developer and Designer</h4>
@@ -159,7 +159,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://web.spaggiari.eu">
-                  <span><img class="img-fluid" src="img/work-experience/spaggiari.jpg" alt=""></span>
+                  <span><img class="img-fluid" src="{{ app.assetPath }}/img/work-experience/spaggiari.jpg" alt=""></span>
                   <h3>Casa Editrice Spaggiari S.p.A.</h3>
                 </a>
                 <h4>IT Analyst,<br>Web Designer And Developer</h4>
@@ -170,7 +170,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://cron.eu">
-                  <span><img class="img-fluid" src="img/work-experience/cron.png" alt=""></span>
+                  <span><img class="img-fluid" src="{{ app.assetPath }}/img/work-experience/cron.png" alt=""></span>
                   <h3>cron IT GmbH</h3>
                 </a>
                 <h4>Agile Senior Frontend Developer</h4>
@@ -181,7 +181,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://aexea.de">
-                  <span><img class="img-fluid" src="img/work-experience/aexea.png" alt=""></span>
+                  <span><img class="img-fluid" src="{{ app.assetPath }}/img/work-experience/aexea.png" alt=""></span>
                   <h3>aexea GmbH<br>communication. content. consulting</h3>
                 </a>
                 <h4>Agile Senior FrontEnd Developer</h4>
@@ -192,7 +192,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://www.schommer-media.de">
-                  <span><img class="img-fluid" src="img/work-experience/schommer-media.png" alt=""></span>
+                  <span><img class="img-fluid" src="{{ app.assetPath }}/img/work-experience/schommer-media.png" alt=""></span>
                   <h3>Schommer Media GmbH<br>TYPO3 Internetagentur Stuttgart</h3>
                 </a>
                 <h4>Agile Senior Frontend Developer<br>Team Leader of the Frontend Area</h4>
@@ -203,7 +203,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://mercedes-benz.io/">
-                  <span><img class="img-fluid" src="img/work-experience/mbio.png" alt=""></span>
+                  <span><img class="img-fluid" src="{{ app.assetPath }}/img/work-experience/mbio.png" alt=""></span>
                   <h3>Mercedes-Benz.io GmbH</h3>
                 </a>
                 <h4>Senior Software/Cloud Engineer</h4>
@@ -214,7 +214,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="jx-work">
                 <a href="https://www.netcentric.biz/">
-                  <span><img class="img-fluid" src="img/work-experience/nc.png" alt=""></span>
+                  <span><img class="img-fluid" src="{{ app.assetPath }}/img/work-experience/nc.png" alt=""></span>
                   <h3>Netcentric, A Cognizant Digital Business</h3>
                 </a>
                 <h4>Senior System/DevOps/Cloud Operations Engineer</h4>
@@ -316,7 +316,7 @@
                 <h3>Container Orchestration</h3>
                 <ul class="list-unstyled">
                   <li><span><a href="https://www.docker.com/">Docker</a></span></li>
-                  <li><span><a href="https://kubernetes.io/">Kubernetes</a> ( <a href="pdf/lfs258.pdf">LFS258 Certificate</a> )</span></li>
+                  <li><span><a href="https://kubernetes.io/">Kubernetes</a> ( <a href="{{ app.assetPath }}/pdf/lfs258.pdf">LFS258 Certificate</a> )</span></li>
                 </ul>
               </div>
             </div>
@@ -422,7 +422,7 @@
           <div class="row">
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Pagani">
-                <img class="img-fluid" src="img/portfolio/pagani.jpg" alt="Pagani">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/pagani.jpg" alt="Pagani">
                 <span>Pagani</span>
               </a>
               <div class="modal fade">
@@ -434,7 +434,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://www.pagani.com/">
-                        <img class="img-fluid" src="img/portfolio/pagani.jpg" alt="Pagani">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/pagani.jpg" alt="Pagani">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -492,7 +492,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Parmigiano Reggiano">
-                <img class="img-fluid" src="img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
                 <span>Parmigiano Reggiano</span>
               </a>
               <div class="modal fade">
@@ -504,7 +504,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://www.parmigianoreggiano.com/">
-                        <img class="img-fluid" src="img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/parmigiano-reggiano.jpg" alt="Parmigiano Reggiano">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -562,7 +562,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Maserati Ghibli">
-                <img class="img-fluid" src="img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
                 <span>Maserati Ghibli</span>
               </a>
               <div class="modal fade">
@@ -574,7 +574,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://www.ghibli.maserati.com/">
-                        <img class="img-fluid" src="img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/maserati-ghibli.jpg" alt="Maserati Ghibli">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -633,7 +633,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="CFT Group">
-                <img class="img-fluid" src="img/portfolio/cft-group.jpg" alt="CFT Group">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/cft-group.jpg" alt="CFT Group">
                 <span>CFT Group</span>
               </a>
               <div class="modal fade">
@@ -645,7 +645,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://www.cft-group.com/">
-                        <img class="img-fluid" src="img/portfolio/cft-group.jpg" alt="CFT Group">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/cft-group.jpg" alt="CFT Group">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -707,7 +707,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Turismo Reggio Emilia">
-                <img class="img-fluid" src="img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
                 <span>Turismo Reggio Emilia</span>
               </a>
               <div class="modal fade">
@@ -719,7 +719,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://reggioemiliaturismo.provincia.re.it/page.asp?IDCategoria=2949&amp;IDSezione=19387&amp;Speciale=MappaTerritoriale">
-                        <img class="img-fluid" src="img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/turismo-reggio-emilia.jpg" alt="Turismo Reggio Emilia">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -780,7 +780,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Acerni">
-                <img class="img-fluid" src="img/portfolio/acerni.jpg" alt="Acerni">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/acerni.jpg" alt="Acerni">
                 <span>Acerni</span>
               </a>
               <div class="modal fade">
@@ -792,7 +792,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://www.acerni.it/en/">
-                        <img class="img-fluid" src="img/portfolio/acerni.jpg" alt="Acerni">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/acerni.jpg" alt="Acerni">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -847,7 +847,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="DHBW Stuttgart">
-                <img class="img-fluid" src="img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
                 <span>DHBW Stuttgart</span>
               </a>
               <div class="modal fade">
@@ -859,7 +859,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://www.dhbw-stuttgart.de/">
-                        <img class="img-fluid" src="img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/dhbw.jpg" alt="DHBW Stuttgart">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -922,7 +922,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Messe Stuttgart">
-                <img class="img-fluid" src="img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
                 <span>Messe Stuttgart</span>
               </a>
               <div class="modal fade">
@@ -934,7 +934,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://www.messe-stuttgart.de/en/">
-                        <img class="img-fluid" src="img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/messe-stgt.jpg" alt="Messe Stuttgart">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -1000,7 +1000,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="4P Consulting">
-                <img class="img-fluid" src="img/portfolio/4pconsulting.jpg" alt="4P Consulting">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/4pconsulting.jpg" alt="4P Consulting">
                 <span>4P Consulting</span>
               </a>
               <div class="modal fade">
@@ -1012,7 +1012,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://www.4p-consulting.de/">
-                        <img class="img-fluid" src="img/portfolio/4pconsulting.jpg" alt="4P Consulting">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/4pconsulting.jpg" alt="4P Consulting">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -1077,7 +1077,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Polytechnische Gesellschaft">
-                <img class="img-fluid" src="img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
                 <span>Polytechnische Gesellschaft</span>
               </a>
               <div class="modal fade">
@@ -1089,7 +1089,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://www.polytechnische.de/">
-                        <img class="img-fluid" src="img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/ptg.jpg" alt="Polytechnische Gesellschaft">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -1159,7 +1159,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Dolci Delizie">
-                <img class="img-fluid" src="img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
                 <span>Dolci Delizie</span>
               </a>
               <div class="modal fade">
@@ -1171,7 +1171,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://dolci-delizie.de/">
-                        <img class="img-fluid" src="img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/dolcidelizie.jpg" alt="Dolci Delizie">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -1234,7 +1234,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Mercedes-Benz">
-                <img class="img-fluid" src="img/portfolio/mercedesbenz.jpg" alt="Mercedes-Benz">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/mercedesbenz.jpg" alt="Mercedes-Benz">
                 <span>Mercedes-Benz</span>
               </a>
               <div class="modal fade">
@@ -1246,7 +1246,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://mercedes-benz.com/">
-                        <img class="img-fluid" src="img/portfolio/mercedesbenz.jpg" alt="Mercedes-Benz">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/mercedesbenz.jpg" alt="Mercedes-Benz">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -1317,7 +1317,7 @@
           <div class="row">
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="NWM">
-                <img class="img-fluid" src="img/portfolio/nwm.jpg" alt="NWM">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/nwm.jpg" alt="NWM">
                 <span>NWM</span>
               </a>
               <div class="modal fade">
@@ -1329,7 +1329,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://nwm.julianxhokaxhiu.com">
-                        <img class="img-fluid" src="img/portfolio/nwm.jpg" alt="NWM">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/nwm.jpg" alt="NWM">
                       </a>
                       <hr>
                       <p>
@@ -1358,7 +1358,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Linux DaVinci">
-                <img class="img-fluid" src="img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
                 <span>Linux DaVinci</span>
               </a>
               <div class="modal fade">
@@ -1370,7 +1370,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://linuxdavinci.julianxhokaxhiu.com">
-                        <img class="img-fluid" src="img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/linuxdavinci.jpg" alt="Linux DaVinci">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -1408,7 +1408,7 @@
           <div class="row">
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="GitHub">
-                <img class="img-fluid" src="img/portfolio/github.jpg" alt="GitHub">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/github.jpg" alt="GitHub">
                 <span>GitHub</span>
               </a>
               <div class="modal fade">
@@ -1420,7 +1420,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://github.com/julianxhokaxhiu">
-                        <img class="img-fluid" src="img/portfolio/github.jpg" alt="GitHub">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/github.jpg" alt="GitHub">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -1442,7 +1442,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Web Developer Italiani">
-                <img class="img-fluid" src="img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
                 <span>Web Developer Italiani</span>
               </a>
               <div class="modal fade">
@@ -1454,7 +1454,7 @@
                     </div>
                     <div class="modal-body">
                       <a href="https://www.facebook.com/groups/webdeveloperitaliani/">
-                        <img class="img-fluid" src="img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
+                        <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/web-dev-fb.jpg" alt="Web Developer Italiani">
                       </a>
                       <div class="row">
                         <div class="col">
@@ -1483,7 +1483,7 @@
             </div>
             <div class="col-sm-4 col-md-3">
               <a href="javascript:;" title="Italian Developers">
-                <img class="img-fluid" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
+                <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
                 <span>Italian Developers</span>
               </a>
               <div class="modal fade">
@@ -1494,7 +1494,7 @@
                       <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     </div>
                     <div class="modal-body">
-                      <img class="img-fluid" src="img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
+                      <img class="img-fluid" src="{{ app.assetPath }}/img/portfolio/ita-dev-gp.jpg" alt="Italian Developers">
                       <div class="row">
                         <div class="col text-right-not-xs">
                           <label>Role:</label>

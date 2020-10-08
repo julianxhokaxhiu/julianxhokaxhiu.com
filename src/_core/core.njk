@@ -11,13 +11,8 @@
   <meta property="og:description" content="My personal motto? 'Impossible Is Nothing'">
   <link href="//fonts.googleapis.com/css?family=Roboto:400,300,500,700&subset=latin,latin-ext" rel="stylesheet">
   <title>Julian Xhokaxhiu's Portfolio</title>
-  {% for href in app.cssFiles.screen %}
-    <link href="{{ href }}" rel="stylesheet" media="screen">
-  {% endfor %}
-  <!-- Print Styles -->
-  {% for href in app.cssFiles.print %}
-    <link href="{{ href }}" rel="stylesheet" media="print">
-  {% endfor %}
+  <link href="scss/screen.scss" rel="stylesheet" media="screen">
+  <link href="scss/print.scss" rel="stylesheet" media="print">
 </head>
 <body>
   <nav class="navbar navbar-expand-lg navbar-light fixed-top">
@@ -50,19 +45,12 @@
       <div class="row justify-content-center">
         <div class="col text-center">
           <p><small>Any screenshot taken from the relative website represent the status of it in a specific time. So, it should not be considered a Copyright infringement, but it is there just for rapid quick-look and better understanding of the relative project sheet.</small></p>
-          <p>Julian Xhokaxhiu, <span id="credits-year">2016</span></p>
+          <p>Julian Xhokaxhiu, <span id="credits-year">2020</span></p>
         </div>
       </div>
     </div>
   </div>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  {% for href in app.jsFiles %}
-    <script src="{{ href }}"></script>
-  {% endfor %}
-  {% if app.liveReloadHost %}
-    <!-- Only for Development Server -->
-    <script src="//{{ app.liveReloadHost }}/livereload.js"></script>
-  {% endif %}
+  <script src="js/index.js"></script>
 </body>
 </html>
 {% endspaceless %}
