@@ -55,15 +55,7 @@
       </div>
     </div>
   </div>
-  <!--[if (!IE)|(gt IE 8)]><!-->
-    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
-  <!--<![endif]-->
-  <!--[if lt IE 9]>
-    <script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
-    <script src="//code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
-    <script src="//cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
-  <![endif]-->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   {% for href in app.jsFiles %}
     <script src="{{ href }}"></script>
   {% endfor %}
