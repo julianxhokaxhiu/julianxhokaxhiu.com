@@ -10,8 +10,8 @@
   },
   "license": "MIT",
   "scripts": {
-    "build": "rm -Rf .cache && parcel src/index.njk -d dist --port 8080",
-    "deploy": "rm -Rf .cache dist && parcel build src/index.njk -d dist --no-source-maps"
+    "build": "rm -Rf .cache dist && parcel src/index.njk -d dist --port 8080",
+    "deploy": "rm -Rf .cache dist && parcel build src/index.njk -d dist --no-source-maps && rm -Rf dist/__"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
@@ -20,6 +20,7 @@
     "nunjucks": "^3.2.2",
     "nunjucks-tag-spaceless": "github:SliceMeNice/nunjucks-tag-spaceless",
     "parcel-bundler": "^1.12.4",
+    "parcel-plugin-custom-dist-structure": "^1.1.16",
     "parcel-plugin-imagemin": "^4.0.1",
     "parcel-plugin-nunjucks": "^2.2.2",
     "parcel-plugin-static-files-copy": "^2.5.0",
@@ -32,5 +33,32 @@
     "staticPath": [
       "assets/google0f343ebd2a71c118.html"
     ]
+  },
+  "customDistStructure": {
+    "config": {
+      "css": [
+        ".css"
+      ],
+      "js": [
+        ".js"
+      ],
+      "img": [
+        ".jpg",
+        ".png"
+      ],
+      "pdf": [
+        ".pdf"
+      ],
+      "font": [
+        ".svg",
+        ".eot",
+        ".woff",
+        ".woff2",
+        ".ttf"
+      ]
+    },
+    "options": {
+      "development": true
+    }
   }
 }
