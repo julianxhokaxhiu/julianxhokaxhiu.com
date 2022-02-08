@@ -1,4 +1,5 @@
-sudo: required
+os: linux
+dist: focal
 
 language: node_js
 node_js:
@@ -18,10 +19,10 @@ script:
 - npm run deploy
 
 deploy:
-  local-dir: dist/
   provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: dist/
   fqdn: julianxhokaxhiu.com
   on:
     branch: master
