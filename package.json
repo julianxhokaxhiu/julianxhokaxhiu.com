@@ -32,7 +32,14 @@
   },
   "staticFiles": {
     "staticPath": [
-      "assets/google0f343ebd2a71c118.html"
+      {
+        "staticPath": "assets/google0f343ebd2a71c118.html",
+        "staticOutDir": ""
+      },
+      {
+        "staticPath": "assets/.well-known/webfinger",
+        "staticOutDir": ".well-known"
+      }
     ]
   },
   "customDistStructure": {
