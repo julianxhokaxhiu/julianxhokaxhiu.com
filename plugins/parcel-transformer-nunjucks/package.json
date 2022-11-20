@@ -1,0 +1,13 @@
+{
+  "name": "parcel-transformer-nunjucks",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Xhokaxhiu",
+    "url": "https://julianxhokaxhiu.com/"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "parcel": "2.x"
+  }
+}
