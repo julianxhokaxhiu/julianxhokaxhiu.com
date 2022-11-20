@@ -14,10 +14,10 @@
     "deploy": "rm -Rf .cache dist && parcel build src/index.njk -d dist --no-source-maps && rm -Rf dist/__"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.14.5",
-    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@babel/preset-env": "^7.20.2",
+    "@fortawesome/fontawesome-free": "^6.2.1",
     "bootstrap": "^4.6.0",
-    "jquery": "^3.6.0",
+    "jquery": "^3.6.1",
     "nunjucks": "^3.2.3",
     "nunjucks-tag-spaceless": "github:SliceMeNice/nunjucks-tag-spaceless",
     "parcel-bundler": "^1.12.5",
@@ -27,7 +27,7 @@
     "parcel-plugin-static-files-copy": "^2.6.0",
     "popper.js": "^1.16.1",
     "responsive-toolkit": "^2.6.3",
-    "sass": "^1.35.1",
+    "sass": "^1.56.1",
     "scrollreveal": "^4.0.9"
   },
   "staticFiles": {
